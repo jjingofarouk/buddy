@@ -1,1 +1,36 @@
 
+{
+    "subjects": [
+        {
+            "name": "Anatomy",
+            "questions": [
+                {
+                    "text": "Which of the following is NOT a part of the human skeleton?",
+                    "options": [
+                        "Femur", 
+                        "Humerus", 
+                        "Pancreas", 
+                        "Tibia"
+                    ],
+                    "correctAnswer": "Pancreas"
+                }
+            ]
+        },
+        {
+            "name": "Physiology",
+            "questions": [
+                {
+                    "text": "What is the primary function of red blood cells?",
+                    "options": [
+                        "Fight Infection", 
+                        "Carry Oxygen", 
+                        "Blood Clotting", 
+                        "Hormone Production"
+                    ],
+                    "correctAnswer": "Carry Oxygen"
+                }
+            ]
+        }
+        // You can add more subjects and questions here
+    ]
+}
