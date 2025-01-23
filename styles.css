@@ -1,146 +1,51 @@
-:root {
-    /* Default Theme */
-    --primary-bg: #f4f4f4;
-    --secondary-bg: #ffffff;
-    --text-color: #333;
-    --accent-color: #3498db;
-    --hover-color: #2980b9;
-}
-
-/* Theme Variations */
-.theme-default {
-    --primary-bg: #f4f4f4;
-    --secondary-bg: #ffffff;
-    --text-color: #333;
-    --accent-color: #3498db;
-    --hover-color: #2980b9;
-}
-
-.theme-dark {
-    --primary-bg: #121212;
-    --secondary-bg: #1e1e1e;
-    --text-color: #e0e0e0;
-    --accent-color: #bb86fc;
-    --hover-color: #3700b3;
-}
-
-.theme-ocean {
-    --primary-bg: #e6f2ff;
-    --secondary-bg: #ffffff;
-    --text-color: #0d47a1;
-    --accent-color: #2196f3;
-    --hover-color: #1976d2;
-}
-
-.theme-forest {
-    --primary-bg: #e8f5e9;
-    --secondary-bg: #ffffff;
-    --text-color: #1b5e20;
-    --accent-color: #4caf50;
-    --hover-color: #388e3c;
-}
-
-.theme-sunset {
-    --primary-bg: #fff3e0;
-    --secondary-bg: #ffffff;
-    --text-color: #bf360c;
-    --accent-color: #ff5722;
-    --hover-color: #d84315;
-}
-
-.theme-lavender {
-    --primary-bg: #f3e5f5;
-    --secondary-bg: #ffffff;
-    --text-color: #4a148c;
-    --accent-color: #9c27b0;
-    --hover-color: #7b1fa2;
-}
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    transition: all 0.3s ease;
-}
-
+/* General Styles */
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: var(--primary-bg);
-    color: var(--text-color);
-    line-height: 1.6;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-#app {
-    display: grid;
-    grid-template-columns: 250px 1fr;
-    grid-template-areas: 
-        "nav nav"
-        "sidebar main";
-    min-height: 100vh;
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: var(--header-bg);
+  color: var(--header-text);
 }
 
-#main-nav {
-    grid-area: nav;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 15px 30px;
-    background-color: var(--secondary-bg);
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+h1 {
+  font-size: 1.8rem;
+  margin: 0;
 }
 
-#subject-sidebar {
-    grid-area: sidebar;
-    background-color: var(--secondary-bg);
-    padding: 20px;
-    border-right: 1px solid rgba(0,0,0,0.1);
+select, button {
+  padding: 10px;
+  font-size: 1rem;
 }
 
-#content-area {
-    grid-area: main;
-    padding: 30px;
+main {
+  padding: 20px;
 }
 
-/* Button and Interactive Styles */
-button {
-    background-color: var(--accent-color);
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
+#mcq-container {
+  margin-top: 20px;
 }
 
-button:hover {
-    background-color: var(--hover-color);
+.mcq {
+  margin-bottom: 15px;
+  padding: 15px;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  background: var(--card-bg);
 }
 
-.theme-color {
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    margin: 0 5px;
-    border: 2px solid transparent;
-}
-
-.theme-color[data-theme="default"] { background-color: #3498db; }
-.theme-color[data-theme="ocean"] { background-color: #2196f3; }
-.theme-color[data-theme="forest"] { background-color: #4caf50; }
-.theme-color[data-theme="sunset"] { background-color: #ff5722; }
-.theme-color[data-theme="lavender"] { background-color: #9c27b0; }
-
-.hidden {
-    display: none;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    #app {
-        grid-template-columns: 1fr;
-        grid-template-areas: 
-            "nav"
-            "sidebar"
-            "main";
-    }
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: var(--footer-bg);
+  color: var(--footer-text);
 }
