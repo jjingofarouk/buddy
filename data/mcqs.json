@@ -1,0 +1,29 @@
+{
+  "subjects": [
+    {
+      "name": "Anatomy",
+      "questions": [
+        {
+          "question": "Which bone is the longest in the human body?",
+          "options": ["Femur", "Humerus", "Tibia", "Fibula"],
+          "answer": "Femur"
+        },
+        {
+          "question": "What is the smallest muscle in the human body?",
+          "options": ["Stapedius", "Masseter", "Gluteus minimus", "Sartorius"],
+          "answer": "Stapedius"
+        }
+      ]
+    },
+    {
+      "name": "Physiology",
+      "questions": [
+        {
+          "question": "Which organ produces insulin?",
+          "options": ["Liver", "Pancreas", "Stomach", "Kidney"],
+          "answer": "Pancreas"
+        }
+      ]
+    }
+  ]
+}
