@@ -22,6 +22,361 @@
           "question": "Which organ produces insulin?",
           "options": ["Liver", "Pancreas", "Stomach", "Kidney"],
           "answer": "Pancreas"
+        },
+        {
+          "question": "What is the normal resting heart rate for an adult?",
+          "options": ["60-100 bpm", "50-70 bpm", "80-120 bpm", "40-60 bpm"],
+          "answer": "60-100 bpm"
+        }
+      ]
+    },
+    {
+      "name": "Biochemistry",
+      "questions": [
+        {
+          "question": "What is the primary storage form of glucose in the human body?",
+          "options": ["Glycogen", "Glucose", "Sucrose", "Lactose"],
+          "answer": "Glycogen"
+        }
+      ]
+    },
+    {
+      "name": "Pharmacology",
+      "questions": [
+        {
+          "question": "What type of drug is aspirin?",
+          "options": ["NSAID", "Antibiotic", "Antiviral", "Antifungal"],
+          "answer": "NSAID"
+        }
+      ]
+    },
+    {
+      "name": "Pathology",
+      "questions": [
+        {
+          "question": "Which type of necrosis is typically associated with ischemic injury?",
+          "options": ["Coagulative", "Liquefactive", "Fat", "Caseous"],
+          "answer": "Coagulative"
+        }
+      ]
+    },
+    {
+      "name": "Microbiology",
+      "questions": [
+        {
+          "question": "Which bacterium causes tuberculosis?",
+          "options": ["Mycobacterium tuberculosis", "Escherichia coli", "Staphylococcus aureus", "Salmonella typhi"],
+          "answer": "Mycobacterium tuberculosis"
+        }
+      ]
+    },
+    {
+      "name": "Immunology",
+      "questions": [
+        {
+          "question": "What type of immunity is conferred by vaccines?",
+          "options": ["Active immunity", "Passive immunity", "Innate immunity", "Adaptive immunity"],
+          "answer": "Active immunity"
+        }
+      ]
+    },
+    {
+      "name": "Epidemiology",
+      "questions": [
+        {
+          "question": "What is the term for the number of new cases of a disease in a population over a specific period?",
+          "options": ["Incidence", "Prevalence", "Morbidity", "Mortality"],
+          "answer": "Incidence"
+        }
+      ]
+    },
+    {
+      "name": "Biostatistics",
+      "questions": [
+        {
+          "question": "What is the median in a dataset?",
+          "options": ["The middle value", "The average value", "The most frequent value", "The range of values"],
+          "answer": "The middle value"
+        }
+      ]
+    },
+    {
+      "name": "Medical Ethics",
+      "questions": [
+        {
+          "question": "What does the principle of autonomy emphasize in medical ethics?",
+          "options": ["Respecting patients' decisions", "Ensuring beneficence", "Preventing harm", "Promoting justice"],
+          "answer": "Respecting patients' decisions"
+        }
+      ]
+    },
+    {
+      "name": "Internal Medicine",
+      "questions": [
+        {
+          "question": "What is the most common cause of hypertension?",
+          "options": ["Primary hypertension", "Secondary hypertension", "Renal failure", "Adrenal tumors"],
+          "answer": "Primary hypertension"
+        }
+      ]
+    },
+    {
+      "name": "Surgery",
+      "questions": [
+        {
+          "question": "Which surgical procedure is used to remove the appendix?",
+          "options": ["Appendectomy", "Cholecystectomy", "Laparotomy", "Gastrectomy"],
+          "answer": "Appendectomy"
+        }
+      ]
+    },
+    {
+      "name": "Pediatrics",
+      "questions": [
+        {
+          "question": "What is the most common cause of neonatal jaundice?",
+          "options": ["Physiological jaundice", "Sepsis", "Hemolytic disease", "Biliary atresia"],
+          "answer": "Physiological jaundice"
+        }
+      ]
+    },
+    {
+      "name": "Obstetrics and Gynecology",
+      "questions": [
+        {
+          "question": "What is the normal duration of a human pregnancy?",
+          "options": ["40 weeks", "36 weeks", "42 weeks", "38 weeks"],
+          "answer": "40 weeks"
+        }
+      ]
+    },
+    {
+      "name": "Psychiatry",
+      "questions": [
+        {
+          "question": "Which disorder is characterized by episodes of mania and depression?",
+          "options": ["Bipolar disorder", "Schizophrenia", "Anxiety disorder", "Obsessive-compulsive disorder"],
+          "answer": "Bipolar disorder"
+        }
+      ]
+    },
+    {
+      "name": "Neurology",
+      "questions": [
+        {
+          "question": "What is the most common cause of ischemic stroke?",
+          "options": ["Thromboembolism", "Hypertension", "Trauma", "Aneurysm"],
+          "answer": "Thromboembolism"
+        }
+      ]
+    },
+    {
+      "name": "Cardiology",
+      "questions": [
+        {
+          "question": "Which valve is affected in mitral stenosis?",
+          "options": ["Mitral valve", "Aortic valve", "Tricuspid valve", "Pulmonary valve"],
+          "answer": "Mitral valve"
+        }
+      ]
+    },
+    {
+      "name": "Pulmonology",
+      "questions": [
+        {
+          "question": "What is the most common cause of chronic obstructive pulmonary disease (COPD)?",
+          "options": ["Smoking", "Asthma", "Allergies", "Genetics"],
+          "answer": "Smoking"
+               }
+      ]
+    },
+    {
+      "name": "Gastroenterology",
+      "questions": [
+        {
+          "question": "What is the primary cause of peptic ulcer disease?",
+          "options": ["Helicobacter pylori", "Stress", "NSAIDs", "Smoking"],
+          "answer": "Helicobacter pylori"
+        }
+      ]
+    },
+    {
+      "name": "Nephrology",
+      "questions": [
+        {
+          "question": "Which structure in the nephron is responsible for filtration of blood?",
+          "options": ["Glomerulus", "Loop of Henle", "Proximal tubule", "Distal tubule"],
+          "answer": "Glomerulus"
+        }
+      ]
+    },
+    {
+      "name": "Endocrinology",
+      "questions": [
+        {
+          "question": "Which gland produces cortisol?",
+          "options": ["Adrenal gland", "Pituitary gland", "Thyroid gland", "Parathyroid gland"],
+          "answer": "Adrenal gland"
+        }
+      ]
+    },
+    {
+      "name": "Hematology",
+      "questions": [
+        {
+          "question": "What is the primary function of platelets?",
+          "options": ["Clotting", "Oxygen transport", "Immune response", "Nutrient transport"],
+          "answer": "Clotting"
+        }
+      ]
+    },
+    {
+      "name": "Oncology",
+      "questions": [
+        {
+          "question": "What is the term for a benign tumor of glandular origin?",
+          "options": ["Adenoma", "Sarcoma", "Carcinoma", "Lymphoma"],
+          "answer": "Adenoma"
+        }
+      ]
+    },
+    {
+      "name": "Radiology",
+      "questions": [
+        {
+          "question": "Which imaging modality uses magnetic fields to create detailed images?",
+          "options": ["MRI", "CT scan", "Ultrasound", "X-ray"],
+          "answer": "MRI"
+        }
+      ]
+    },
+    {
+      "name": "Emergency Medicine",
+      "questions": [
+        {
+          "question": "What is the immediate treatment for anaphylaxis?",
+          "options": ["Epinephrine", "Antihistamines", "Corticosteroids", "Oxygen therapy"],
+          "answer": "Epinephrine"
+        }
+      ]
+    },
+    {
+      "name": "Dermatology",
+      "questions": [
+        {
+          "question": "Which layer of the skin contains melanocytes?",
+          "options": ["Epidermis", "Dermis", "Subcutaneous tissue", "Basement membrane"],
+          "answer": "Epidermis"
+        }
+      ]
+    },
+    {
+      "name": "Ophthalmology",
+      "questions": [
+        {
+          "question": "What is the most common cause of blindness worldwide?",
+          "options": ["Cataracts", "Glaucoma", "Macular degeneration", "Diabetic retinopathy"],
+          "answer": "Cataracts"
+        }
+      ]
+    },
+    {
+      "name": "Otolaryngology",
+      "questions": [
+        {
+          "question": "What is the most common cause of otitis media?",
+          "options": ["Streptococcus pneumoniae", "Haemophilus influenzae", "Staphylococcus aureus", "Pseudomonas aeruginosa"],
+          "answer": "Streptococcus pneumoniae"
+        }
+      ]
+    },
+    {
+      "name": "Orthopedic Surgery",
+      "questions": [
+        {
+          "question": "What is the most common fracture in elderly patients with osteoporosis?",
+          "options": ["Hip fracture", "Wrist fracture", "Spinal compression fracture", "Ankle fracture"],
+          "answer": "Hip fracture"
+        }
+      ]
+    },
+    {
+      "name": "Plastic Surgery",
+      "questions": [
+        {
+          "question": "Which procedure is commonly used to repair a cleft palate?",
+          "options": ["Palatoplasty", "Rhinoplasty", "Mammoplasty", "Abdominoplasty"],
+          "answer": "Palatoplasty"
+        }
+      ]
+    },
+    {
+      "name": "Vascular Surgery",
+      "questions": [
+        {
+          "question": "What is the most common site for an abdominal aortic aneurysm?",
+          "options": ["Below the renal arteries", "Above the renal arteries", "Thoracic aorta", "Iliac arteries"],
+          "answer": "Below the renal arteries"
+        }
+      ]
+    },
+    {
+      "name": "Anesthesiology",
+      "questions": [
+        {
+          "question": "Which drug is most commonly used for induction of general anesthesia?",
+          "options": ["Propofol", "Ketamine", "Fentanyl", "Midazolam"],
+          "answer": "Propofol"
+        }
+      ]
+    },
+    {
+      "name": "Pain Management",
+      "questions": [
+        {
+          "question": "What is the most common medication used for mild to moderate pain relief?",
+          "options": ["Acetaminophen", "Morphine", "Fentanyl", "Ibuprofen"],
+          "answer": "Acetaminophen"
+        }
+      ]
+    },
+    {
+      "name": "Palliative Care",
+      "questions": [
+        {
+          "question": "What is the primary goal of palliative care?",
+          "options": ["Improve quality of life", "Cure the disease", "Prolong survival", "Manage side effects of treatments"],
+          "answer": "Improve quality of life"
+        }
+      ]
+    },
+    {
+      "name": "Geriatrics",
+      "questions": [
+        {
+          "question": "What is the term for age-related loss of muscle mass?",
+          "options": ["Sarcopenia", "Osteopenia", "Cachexia", "Myopathy"],
+          "answer": "Sarcopenia"
+        }
+      ]
+    },
+    {
+      "name": "Adolescent Medicine",
+      "questions": [
+        {
+          "question": "What is the most common cause of anemia in adolescents?",
+          "options": ["Iron deficiency", "Vitamin B12 deficiency", "Folate deficiency", "Chronic disease"],
+          "answer": "Iron deficiency"
+        }
+      ]
+    },
+    {
+      "name": "Sleep Medicine",
+      "questions": [
+        {
+          "question": "What is the most common sleep disorder?",
+          "options": ["Insomnia", "Sleep apnea", "Narcolepsy", "Restless leg syndrome"],
+          "answer": "Insomnia"
         }
       ]
     }
