@@ -1,0 +1,22 @@
+// Forms
+.form-group {
+  margin-bottom: 2rem;
+
+  label {
+    display: block;
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+  }
+
+  input,
+  select,
+  textarea {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1.6rem;
+    border: 1px solid var(--primary-color);
+    border-radius: var(--border-radius);
+    background-color: var(--secondary-color);
+    color: var(--text-color);
+  }
+}
