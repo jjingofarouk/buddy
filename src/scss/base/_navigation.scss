@@ -1,1 +1,21 @@
+// Navigation
+.main-nav {
+  ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
 
+    li {
+      a {
+        font-size: 1.6rem;
+        color: var(--text-color);
+        text-decoration: none;
+        transition: color 0.3s ease;
+
+        &:hover {
+          color: var(--primary-color);
+        }
+      }
+    }
+  }
+}
