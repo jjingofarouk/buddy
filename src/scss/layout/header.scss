@@ -1,0 +1,33 @@
+// Header Layout
+.app-header {
+  background-color: var(--secondary-color);
+  padding: 1rem 2rem;
+  box-shadow: var(--box-shadow);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .branding {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+    .logo {
+      height: 4rem;
+    }
+  }
+
+  .header-controls {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+}
