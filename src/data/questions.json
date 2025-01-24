@@ -1,1 +1,80 @@
 
+{
+  "meta": {
+    "version": "2.1.0",
+    "last_updated": "2023-08-20",
+    "total_questions": 12500,
+    "statistics": {
+      "average_difficulty": 3.2,
+      "coverage": ["USMLE", "PLAB", "AMC"]
+    }
+  },
+  "questions": [
+    {
+      "id": "CARDIOL_0047",
+      "type": "MCQ",
+      "version": 1,
+      "question": "A 68-year-old male with HTN presents with chest pain radiating to the jaw. ECG shows ST elevation in leads II, III, aVF. Which intervention is <em>most critical</em> in the first 90 minutes?",
+      "options": [
+        {"id": "A", "content": "Aspirin 325 mg PO"},
+        {"id": "B", "content": "Sublingual nitroglycerin"},
+        {"id": "C", "content": "Primary PCI", "correct": true},
+        {"id": "D", "content": "IV metoprolol"}
+      ],
+      "multimedia": {
+        "images": ["ecg_stemi.png"],
+        "videos": ["pci_procedure.mp4"]
+      },
+      "metadata": {
+        "specialty": "Cardiology",
+        "subspecialty": "Acute Coronary Syndrome",
+        "difficulty": 4,
+        "high_yield": true,
+        "tags": ["ECG", "Emergency", "Intervention"],
+        "linked_questions": ["CARDIOL_0048", "PHARM_0123"]
+      },
+      "explanations": [
+        {
+          "type": "brief",
+          "content": "STEMI requires immediate reperfusion via PCI within 90 minutes."
+        },
+        {
+          "type": "detailed",
+          "content": "According to 2023 ACC/AHA guidelines, primary PCI is the preferred reperfusion strategy when can be performed within 90 minutes...",
+          "references": [
+            {"text": "ACC/AHA Guidelines", "url": "#"},
+            {"text": "NEJM Review Article", "url": "#"}
+          ]
+        }
+      ],
+      "analytics": {
+        "times_attempted": 1423,
+        "correct_rate": 68.2,
+        "common_mistakes": ["B (24%)", "D (8%)"]
+      }
+    },
+    {
+      "id": "CLINICAL_NEURO_0112",
+      "type": "ClinicalCase",
+      "complexity": 5,
+      "scenario": "A 72-year-old female presents with progressive memory loss and personality changes over 2 years. MRI shows hippocampal atrophy.",
+      "multistep": [
+        {
+          "question": "What is the most likely diagnosis?",
+          "options": ["Alzheimer's", "Lewy Body Dementia", "Frontotemporal Dementia", "Vascular Dementia"],
+          "correct": 0
+        },
+        {
+          "question": "Which imaging finding would best support this diagnosis?",
+          "options": ["Amyloid PET positivity", "Normal CSF biomarkers", "Microbleeds on SWI", "Midbrain atrophy"],
+          "correct": 0
+        }
+      ],
+      "metadata": {
+        "specialty": "Neurology",
+        "keywords": ["dementia", "neurodegenerative"],
+        "vignette_type": "progressive_chronic"
+      }
+    }
+  ]
+}
