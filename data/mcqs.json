@@ -12,24 +12,2471 @@
           "question": "What is the smallest muscle in the human body?",
           "options": ["Stapedius", "Masseter", "Gluteus minimus", "Sartorius"],
           "answer": "Stapedius"
-        }
-      ]
-    },
-    {
-      "name": "Physiology",
-      "questions": [
+        },
         {
-          "question": "Which organ produces insulin?",
-          "options": ["Liver", "Pancreas", "Stomach", "Kidney"],
+          "question": "Which artery supplies blood to the heart muscle?",
+          "options": ["Coronary artery", "Pulmonary artery", "Aorta", "Carotid artery"],
+          "answer": "Coronary artery"
+        },
+        {
+          "question": "What is the largest organ in the human body?",
+          "options": ["Liver", "Skin", "Brain", "Heart"],
+          "answer": "Skin"
+        },
+        {
+          "question": "Which part of the brain is responsible for balance and coordination?",
+          "options": ["Cerebellum", "Cerebrum", "Medulla oblongata", "Thalamus"],
+          "answer": "Cerebellum"
+        },
+        {
+          "question": "How many vertebrae are in the human spine?",
+          "options": ["26", "30", "33", "24"],
+          "answer": "33"
+        },
+        {
+          "question": "Which bone is commonly known as the collarbone?",
+          "options": ["Scapula", "Clavicle", "Sternum", "Humerus"],
+          "answer": "Clavicle"
+        },
+        {
+          "question": "What is the primary function of red blood cells?",
+          "options": ["Fight infection", "Transport oxygen", "Produce hormones", "Digest food"],
+          "answer": "Transport oxygen"
+        },
+        {
+          "question": "Which organ produces bile?",
+          "options": ["Pancreas", "Liver", "Gallbladder", "Stomach"],
+          "answer": "Liver"
+        },
+        {
+          "question": "What is the name of the muscle that separates the thoracic and abdominal cavities?",
+          "options": ["Diaphragm", "Intercostal muscle", "Pectoralis major", "Rectus abdominis"],
+          "answer": "Diaphragm"
+        },
+        {
+          "question": "Which part of the eye is responsible for focusing light?",
+          "options": ["Retina", "Cornea", "Lens", "Iris"],
+          "answer": "Lens"
+        },
+        {
+          "question": "What is the name of the bone in the upper arm?",
+          "options": ["Radius", "Ulna", "Humerus", "Femur"],
+          "answer": "Humerus"
+        },
+        {
+          "question": "Which gland is known as the 'master gland'?",
+          "options": ["Thyroid gland", "Pituitary gland", "Adrenal gland", "Pancreas"],
+          "answer": "Pituitary gland"
+        },
+        {
+          "question": "What is the name of the fluid that lubricates joints?",
+          "options": ["Synovial fluid", "Cerebrospinal fluid", "Lymph", "Plasma"],
+          "answer": "Synovial fluid"
+        },
+        {
+          "question": "Which part of the nervous system controls involuntary actions?",
+          "options": ["Somatic nervous system", "Autonomic nervous system", "Central nervous system", "Peripheral nervous system"],
+          "answer": "Autonomic nervous system"
+        },
+        {
+          "question": "What is the name of the largest part of the human brain?",
+          "options": ["Cerebellum", "Brainstem", "Cerebrum", "Thalamus"],
+          "answer": "Cerebrum"
+        },
+        {
+          "question": "Which bone is found in the lower leg?",
+          "options": ["Femur", "Tibia", "Fibula", "Patella"],
+          "answer": "Tibia"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to smile?",
+          "options": ["Masseter", "Zygomaticus", "Orbicularis oris", "Buccinator"],
+          "answer": "Zygomaticus"
+        },
+        {
+          "question": "Which organ is responsible for filtering blood?",
+          "options": ["Liver", "Kidney", "Spleen", "Pancreas"],
+          "answer": "Kidney"
+        },
+        {
+          "question": "What is the name of the bone in the thigh?",
+          "options": ["Femur", "Tibia", "Fibula", "Patella"],
+          "answer": "Femur"
+        },
+        {
+          "question": "Which part of the brain regulates body temperature?",
+          "options": ["Hypothalamus", "Thalamus", "Cerebellum", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the largest artery in the body?",
+          "options": ["Aorta", "Pulmonary artery", "Carotid artery", "Femoral artery"],
+          "answer": "Aorta"
+        },
+        {
+          "question": "Which bone is commonly known as the kneecap?",
+          "options": ["Patella", "Tibia", "Fibula", "Femur"],
+          "answer": "Patella"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to blink?",
+          "options": ["Orbicularis oculi", "Levator palpebrae superioris", "Zygomaticus", "Masseter"],
+          "answer": "Orbicularis oculi"
+        },
+        {
+          "question": "Which organ is responsible for producing insulin?",
+          "options": ["Liver", "Pancreas", "Kidney", "Spleen"],
           "answer": "Pancreas"
         },
         {
-          "question": "What is the normal resting heart rate for an adult?",
-          "options": ["60-100 bpm", "50-70 bpm", "80-120 bpm", "40-60 bpm"],
-          "answer": "60-100 bpm"
-        }
-      ]
-    },
+          "question": "What is the name of the bone in the lower arm on the thumb side?",
+          "options": ["Ulna", "Radius", "Humerus", "Carpals"],
+          "answer": "Radius"
+        },
+        {
+          "question": "Which part of the brain is responsible for memory?",
+          "options": ["Hippocampus", "Amygdala", "Thalamus", "Cerebellum"],
+          "answer": "Hippocampus"
+        },
+        {
+          "question": "What is the name of the fluid that surrounds the brain and spinal cord?",
+          "options": ["Synovial fluid", "Cerebrospinal fluid", "Lymph", "Plasma"],
+          "answer": "Cerebrospinal fluid"
+        },
+        {
+          "question": "Which bone is found in the upper leg?",
+          "options": ["Femur", "Tibia", "Fibula", "Patella"],
+          "answer": "Femur"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to chew?",
+          "options": ["Masseter", "Zygomaticus", "Orbicularis oris", "Buccinator"],
+          "answer": "Masseter"
+        },
+        {
+          "question": "Which organ is responsible for producing red blood cells?",
+          "options": ["Liver", "Kidney", "Spleen", "Bone marrow"],
+          "answer": "Bone marrow"
+        },
+        {
+          "question": "What is the name of the bone in the lower arm on the pinky side?",
+          "options": ["Ulna", "Radius", "Humerus", "Carpals"],
+          "answer": "Ulna"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating sleep?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the largest vein in the body?",
+          "options": ["Superior vena cava", "Inferior vena cava", "Jugular vein", "Femoral vein"],
+          "answer": "Inferior vena cava"
+        },
+        {
+          "question": "Which bone is commonly known as the shoulder blade?",
+          "options": ["Clavicle", "Scapula", "Humerus", "Sternum"],
+          "answer": "Scapula"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to raise your eyebrows?",
+          "options": ["Frontalis", "Orbicularis oculi", "Zygomaticus", "Masseter"],
+          "answer": "Frontalis"
+        },
+        {
+          "question": "Which organ is responsible for detoxifying the blood?",
+          "options": ["Liver", "Kidney", "Spleen", "Pancreas"],
+          "answer": "Liver"
+        },
+        {
+          "question": "What is the name of the bone in the wrist?",
+          "options": ["Carpals", "Metacarpals", "Phalanges", "Tarsals"],
+          "answer": "Carpals"
+        },
+        {
+          "question": "Which part of the brain is responsible for processing visual information?",
+          "options": ["Occipital lobe", "Temporal lobe", "Parietal lobe", "Frontal lobe"],
+          "answer": "Occipital lobe"
+        },
+        {
+          "question": "What is the name of the fluid that carries oxygen in the blood?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Hemoglobin"
+        },
+        {
+          "question": "Which bone is found in the foot?",
+          "options": ["Tarsals", "Metatarsals", "Phalanges", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to breathe?",
+          "options": ["Diaphragm", "Intercostal muscle", "Pectoralis major", "Rectus abdominis"],
+          "answer": "Diaphragm"
+        },
+        {
+          "question": "Which organ is responsible for storing bile?",
+          "options": ["Liver", "Gallbladder", "Pancreas", "Stomach"],
+          "answer": "Gallbladder"
+        },
+        {
+          "question": "What is the name of the bone in the hand?",
+          "options": ["Carpals", "Metacarpals", "Phalanges", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "Which part of the brain is responsible for processing auditory information?",
+          "options": ["Occipital lobe", "Temporal lobe", "Parietal lobe", "Frontal lobe"],
+          "answer": "Temporal lobe"
+        },
+        {
+          "question": "What is the name of the fluid that carries nutrients in the blood?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the ankle?",
+          "options": ["Tarsals", "Metatarsals", "Phalanges", "All of the above"],
+          "answer": "Tarsals"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to flex your arm?",
+          "options": ["Biceps brachii", "Triceps brachii", "Deltoid", "Pectoralis major"],
+          "answer": "Biceps brachii"
+        },
+        {
+          "question": "Which organ is responsible for producing white blood cells?",
+          "options": ["Liver", "Kidney", "Spleen", "Bone marrow"],
+          "answer": "Bone marrow"
+        },
+        {
+          "question": "What is the name of the bone in the fingers?",
+          "options": ["Carpals", "Metacarpals", "Phalanges", "Tarsals"],
+          "answer": "Phalanges"
+        },
+        {
+          "question": "Which part of the brain is responsible for decision-making?",
+          "options": ["Occipital lobe", "Temporal lobe", "Parietal lobe", "Frontal lobe"],
+          "answer": "Frontal lobe"
+        },
+        {
+          "question": "What is the name of the fluid that carries waste products in the blood?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the chest?",
+          "options": ["Sternum", "Ribs", "Clavicle", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to extend your arm?",
+          "options": ["Biceps brachii", "Triceps brachii", "Deltoid", "Pectoralis major"],
+          "answer": "Triceps brachii"
+        },
+        {
+          "question": "Which organ is responsible for producing antibodies?",
+          "options": ["Liver", "Kidney", "Spleen", "Lymph nodes"],
+          "answer": "Lymph nodes"
+        },
+        {
+          "question": "What is the name of the bone in the toes?",
+          "options": ["Tarsals", "Metatarsals", "Phalanges", "All of the above"],
+          "answer": "Phalanges"
+        },
+        {
+          "question": "Which part of the brain is responsible for processing sensory information?",
+          "options": ["Occipital lobe", "Temporal lobe", "Parietal lobe", "Frontal lobe"],
+          "answer": "Parietal lobe"
+        },
+        {
+          "question": "What is the name of the fluid that carries hormones in the blood?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the skull?",
+          "options": ["Frontal bone", "Parietal bone", "Occipital bone", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to rotate your arm?",
+          "options": ["Biceps brachii", "Triceps brachii", "Deltoid", "Rotator cuff"],
+          "answer": "Rotator cuff"
+        },
+        {
+          "question": "Which organ is responsible for producing platelets?",
+          "options": ["Liver", "Kidney", "Spleen", "Bone marrow"],
+          "answer": "Bone marrow"
+        },
+        {
+          "question": "What is the name of the bone in the spine?",
+          "options": ["Vertebrae", "Ribs", "Sternum", "Clavicle"],
+          "answer": "Vertebrae"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating emotions?",
+          "options": ["Amygdala", "Hippocampus", "Thalamus", "Hypothalamus"],
+          "answer": "Amygdala"
+        },
+        {
+          "question": "What is the name of the fluid that carries immune cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Lymph"
+        },
+        {
+          "question": "Which bone is found in the pelvis?",
+          "options": ["Ilium", "Ischium", "Pubis", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to flex your leg?",
+          "options": ["Quadriceps", "Hamstrings", "Gastrocnemius", "Sartorius"],
+          "answer": "Quadriceps"
+        },
+        {
+          "question": "Which organ is responsible for producing urine?",
+          "options": ["Liver", "Kidney", "Spleen", "Pancreas"],
+          "answer": "Kidney"
+        },
+        {
+          "question": "What is the name of the bone in the lower back?",
+          "options": ["Lumbar vertebrae", "Thoracic vertebrae", "Cervical vertebrae", "Sacrum"],
+          "answer": "Lumbar vertebrae"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating hunger?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries carbon dioxide in the blood?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the upper back?",
+          "options": ["Scapula", "Clavicle", "Humerus", "Sternum"],
+          "answer": "Scapula"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to extend your leg?",
+          "options": ["Quadriceps", "Hamstrings", "Gastrocnemius", "Sartorius"],
+          "answer": "Hamstrings"
+        },
+        {
+          "question": "Which organ is responsible for producing digestive enzymes?",
+          "options": ["Liver", "Pancreas", "Stomach", "Small intestine"],
+          "answer": "Pancreas"
+        },
+        {
+          "question": "What is the name of the bone in the neck?",
+          "options": ["Cervical vertebrae", "Thoracic vertebrae", "Lumbar vertebrae", "Sacrum"],
+          "answer": "Cervical vertebrae"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating thirst?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries nutrients to cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Lymph"
+        },
+        {
+          "question": "Which bone is found in the face?",
+          "options": ["Maxilla", "Mandible", "Zygomatic bone", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to rotate your leg?",
+          "options": ["Quadriceps", "Hamstrings", "Gastrocnemius", "Sartorius"],
+          "answer": "Sartorius"
+        },
+        {
+          "question": "Which organ is responsible for producing bile?",
+          "options": ["Liver", "Gallbladder", "Pancreas", "Stomach"],
+          "answer": "Liver"
+        },
+        {
+          "question": "What is the name of the bone in the upper chest?",
+          "options": ["Sternum", "Ribs", "Clavicle", "Scapula"],
+          "answer": "Sternum"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating body temperature?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries waste products away from cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Lymph"
+        },
+        {
+          "question": "Which bone is found in the lower chest?",
+          "options": ["Sternum", "Ribs", "Clavicle", "Scapula"],
+          "answer": "Ribs"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to flex your foot?",
+          "options": ["Tibialis anterior", "Gastrocnemius", "Soleus", "Peroneus longus"],
+          "answer": "Tibialis anterior"
+        },
+        {
+          "question": "Which organ is responsible for producing insulin?",
+          "options": ["Liver", "Pancreas", "Stomach", "Small intestine"],
+          "answer": "Pancreas"
+        },
+        {
+          "question": "What is the name of the bone in the upper arm?",
+          "options": ["Humerus", "Radius", "Ulna", "Scapula"],
+          "answer": "Humerus"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating sleep?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries oxygen to cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Hemoglobin"
+        },
+        {
+          "question": "Which bone is found in the lower arm?",
+          "options": ["Radius", "Ulna", "Humerus", "Scapula"],
+          "answer": "Radius"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to extend your foot?",
+          "options": ["Tibialis anterior", "Gastrocnemius", "Soleus", "Peroneus longus"],
+          "answer": "Gastrocnemius"
+        },
+        {
+          "question": "Which organ is responsible for producing glucagon?",
+          "options": ["Liver", "Pancreas", "Stomach", "Small intestine"],
+          "answer": "Pancreas"
+        },
+        {
+          "question": "What is the name of the bone in the upper leg?",
+          "options": ["Femur", "Tibia", "Fibula", "Patella"],
+          "answer": "Femur"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating balance?",
+          "options": ["Cerebellum", "Cerebrum", "Medulla oblongata", "Thalamus"],
+          "answer": "Cerebellum"
+        },
+        {
+          "question": "What is the name of the fluid that carries carbon dioxide away from cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the lower leg?",
+          "options": ["Tibia", "Fibula", "Femur", "Patella"],
+          "answer": "Tibia"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to rotate your foot?",
+          "options": ["Tibialis anterior", "Gastrocnemius", "Soleus", "Peroneus longus"],
+          "answer": "Peroneus longus"
+        },
+        {
+          "question": "Which organ is responsible for producing adrenaline?",
+          "options": ["Liver", "Pancreas", "Adrenal gland", "Thyroid gland"],
+          "answer": "Adrenal gland"
+        },
+        {
+          "question": "What is the name of the bone in the knee?",
+          "options": ["Patella", "Tibia", "Fibula", "Femur"],
+          "answer": "Patella"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating heart rate?",
+          "options": ["Medulla oblongata", "Cerebellum", "Thalamus", "Hypothalamus"],
+          "answer": "Medulla oblongata"
+        },
+        {
+          "question": "What is the name of the fluid that carries hormones to cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the ankle?",
+          "options": ["Tarsals", "Metatarsals", "Phalanges", "All of the above"],
+          "answer": "Tarsals"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to flex your toes?",
+          "options": ["Flexor digitorum longus", "Extensor digitorum longus", "Tibialis anterior", "Peroneus longus"],
+          "answer": "Flexor digitorum longus"
+        },
+        {
+          "question": "Which organ is responsible for producing thyroxine?",
+          "options": ["Thyroid gland", "Adrenal gland", "Pancreas", "Pituitary gland"],
+          "answer": "Thyroid gland"
+        },
+        {
+          "question": "What is the name of the bone in the foot?",
+          "options": ["Tarsals", "Metatarsals", "Phalanges", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating blood pressure?",
+          "options": ["Medulla oblongata", "Cerebellum", "Thalamus", "Hypothalamus"],
+          "answer": "Medulla oblongata"
+        },
+        {
+          "question": "What is the name of the fluid that carries waste products to the kidneys?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the hand?",
+          "options": ["Carpals", "Metacarpals", "Phalanges", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to extend your toes?",
+          "options": ["Flexor digitorum longus", "Extensor digitorum longus", "Tibialis anterior", "Peroneus longus"],
+          "answer": "Extensor digitorum longus"
+        },
+        {
+          "question": "Which organ is responsible for producing cortisol?",
+          "options": ["Thyroid gland", "Adrenal gland", "Pancreas", "Pituitary gland"],
+          "answer": "Adrenal gland"
+        },
+        {
+          "question": "What is the name of the bone in the fingers?",
+          "options": ["Carpals", "Metacarpals", "Phalanges", "Tarsals"],
+          "answer": "Phalanges"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating breathing?",
+          "options": ["Medulla oblongata", "Cerebellum", "Thalamus", "Hypothalamus"],
+          "answer": "Medulla oblongata"
+        },
+        {
+          "question": "What is the name of the fluid that carries oxygen to the brain?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Hemoglobin"
+        },
+        {
+          "question": "Which bone is found in the toes?",
+          "options": ["Tarsals", "Metatarsals", "Phalanges", "All of the above"],
+          "answer": "Phalanges"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to rotate your foot?",
+          "options": ["Tibialis anterior", "Gastrocnemius", "Soleus", "Peroneus longus"],
+          "answer": "Peroneus longus"
+        },
+        {
+          "question": "Which organ is responsible for producing growth hormone?",
+          "options": ["Thyroid gland", "Adrenal gland", "Pancreas", "Pituitary gland"],
+          "answer": "Pituitary gland"
+        },
+        {
+          "question": "What is the name of the bone in the spine?",
+          "options": ["Vertebrae", "Ribs", "Sternum", "Clavicle"],
+          "answer": "Vertebrae"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating emotions?",
+          "options": ["Amygdala", "Hippocampus", "Thalamus", "Hypothalamus"],
+          "answer": "Amygdala"
+        },
+        {
+          "question": "What is the name of the fluid that carries immune cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Lymph"
+        },
+        {
+          "question": "Which bone is found in the pelvis?",
+          "options": ["Ilium", "Ischium", "Pubis", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to flex your leg?",
+          "options": ["Quadriceps", "Hamstrings", "Gastrocnemius", "Sartorius"],
+          "answer": "Quadriceps"
+        },
+        {
+          "question": "Which organ is responsible for producing urine?",
+          "options": ["Liver", "Kidney", "Spleen", "Pancreas"],
+          "answer": "Kidney"
+        },
+        {
+          "question": "What is the name of the bone in the lower back?",
+          "options": ["Lumbar vertebrae", "Thoracic vertebrae", "Cervical vertebrae", "Sacrum"],
+          "answer": "Lumbar vertebrae"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating hunger?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries carbon dioxide in the blood?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the upper back?",
+          "options": ["Scapula", "Clavicle", "Humerus", "Sternum"],
+          "answer": "Scapula"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to extend your leg?",
+          "options": ["Quadriceps", "Hamstrings", "Gastrocnemius", "Sartorius"],
+          "answer": "Hamstrings"
+        },
+        {
+          "question": "Which organ is responsible for producing digestive enzymes?",
+          "options": ["Liver", "Pancreas", "Stomach", "Small intestine"],
+          "answer": "Pancreas"
+        },
+        {
+          "question": "What is the name of the bone in the neck?",
+          "options": ["Cervical vertebrae", "Thoracic vertebrae", "Lumbar vertebrae", "Sacrum"],
+          "answer": "Cervical vertebrae"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating thirst?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries nutrients to cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Lymph"
+        },
+        {
+          "question": "Which bone is found in the face?",
+          "options": ["Maxilla", "Mandible", "Zygomatic bone", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to rotate your leg?",
+          "options": ["Quadriceps", "Hamstrings", "Gastrocnemius", "Sartorius"],
+          "answer": "Sartorius"
+        },
+        {
+          "question": "Which organ is responsible for producing bile?",
+          "options": ["Liver", "Gallbladder", "Pancreas", "Stomach"],
+          "answer": "Liver"
+        },
+        {
+          "question": "What is the name of the bone in the upper chest?",
+          "options": ["Sternum", "Ribs", "Clavicle", "Scapula"],
+          "answer": "Sternum"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating body temperature?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries waste products away from cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Lymph"
+        },
+        {
+          "question": "Which bone is found in the lower chest?",
+          "options": ["Sternum", "Ribs", "Clavicle", "Scapula"],
+          "answer": "Ribs"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to flex your foot?",
+          "options": ["Tibialis anterior", "Gastrocnemius", "Soleus", "Peroneus longus"],
+          "answer": "Tibialis anterior"
+        },
+        {
+          "question": "Which organ is responsible for producing insulin?",
+          "options": ["Liver", "Pancreas", "Stomach", "Small intestine"],
+          "answer": "Pancreas"
+        },
+        {
+          "question": "What is the name of the bone in the upper arm?",
+          "options": ["Humerus", "Radius", "Ulna", "Scapula"],
+          "answer": "Humerus"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating sleep?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries oxygen to cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Hemoglobin"
+        },
+        {
+          "question": "Which bone is found in the lower arm?",
+          "options": ["Radius", "Ulna", "Humerus", "Scapula"],
+          "answer": "Radius"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to extend your foot?",
+          "options": ["Tibialis anterior", "Gastrocnemius", "Soleus", "Peroneus longus"],
+          "answer": "Gastrocnemius"
+        },
+        {
+          "question": "Which organ is responsible for producing glucagon?",
+          "options": ["Liver", "Pancreas", "Stomach", "Small intestine"],
+          "answer": "Pancreas"
+        },
+        {
+          "question": "What is the name of the bone in the upper leg?",
+          "options": ["Femur", "Tibia", "Fibula", "Patella"],
+          "answer": "Femur"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating balance?",
+          "options": ["Cerebellum", "Cerebrum", "Medulla oblongata", "Thalamus"],
+          "answer": "Cerebellum"
+        },
+        {
+          "question": "What is the name of the fluid that carries carbon dioxide away from cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the lower leg?",
+          "options": ["Tibia", "Fibula", "Femur", "Patella"],
+          "answer": "Tibia"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to rotate your foot?",
+          "options": ["Tibialis anterior", "Gastrocnemius", "Soleus", "Peroneus longus"],
+          "answer": "Peroneus longus"
+        },
+        {
+          "question": "Which organ is responsible for producing adrenaline?",
+          "options": ["Liver", "Pancreas", "Adrenal gland", "Thyroid gland"],
+          "answer": "Adrenal gland"
+        },
+        {
+          "question": "What is the name of the bone in the knee?",
+          "options": ["Patella", "Tibia", "Fibula", "Femur"],
+          "answer": "Patella"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating heart rate?",
+          "options": ["Medulla oblongata", "Cerebellum", "Thalamus", "Hypothalamus"],
+          "answer": "Medulla oblongata"
+        },
+        {
+          "question": "What is the name of the fluid that carries hormones to cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the ankle?",
+          "options": ["Tarsals", "Metatarsals", "Phalanges", "All of the above"],
+          "answer": "Tarsals"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to flex your toes?",
+          "options": ["Flexor digitorum longus", "Extensor digitorum longus", "Tibialis anterior", "Peroneus longus"],
+          "answer": "Flexor digitorum longus"
+        },
+        {
+          "question": "Which organ is responsible for producing thyroxine?",
+          "options": ["Thyroid gland", "Adrenal gland", "Pancreas", "Pituitary gland"],
+          "answer": "Thyroid gland"
+        },
+        {
+          "question": "What is the name of the bone in the foot?",
+          "options": ["Tarsals", "Metatarsals", "Phalanges", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating blood pressure?",
+          "options": ["Medulla oblongata", "Cerebellum", "Thalamus", "Hypothalamus"],
+          "answer": "Medulla oblongata"
+        },
+        {
+          "question": "What is the name of the fluid that carries waste products to the kidneys?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the hand?",
+          "options": ["Carpals", "Metacarpals", "Phalanges", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to extend your toes?",
+          "options": ["Flexor digitorum longus", "Extensor digitorum longus", "Tibialis anterior", "Peroneus longus"],
+          "answer": "Extensor digitorum longus"
+        },
+        {
+          "question": "Which organ is responsible for producing cortisol?",
+          "options": ["Thyroid gland", "Adrenal gland", "Pancreas", "Pituitary gland"],
+          "answer": "Adrenal gland"
+        },
+        {
+          "question": "What is the name of the bone in the fingers?",
+          "options": ["Carpals", "Metacarpals", "Phalanges", "Tarsals"],
+          "answer": "Phalanges"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating breathing?",
+          "options": ["Medulla oblongata", "Cerebellum", "Thalamus", "Hypothalamus"],
+          "answer": "Medulla oblongata"
+        },
+        {
+          "question": "What is the name of the fluid that carries oxygen to the brain?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Hemoglobin"
+        },
+        {
+          "question": "Which bone is found in the toes?",
+          "options": ["Tarsals", "Metatarsals", "Phalanges", "All of the above"],
+          "answer": "Phalanges"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to rotate your foot?",
+          "options": ["Tibialis anterior", "Gastrocnemius", "Soleus", "Peroneus longus"],
+          "answer": "Peroneus longus"
+        },
+        {
+          "question": "Which organ is responsible for producing growth hormone?",
+          "options": ["Thyroid gland", "Adrenal gland", "Pancreas", "Pituitary gland"],
+          "answer": "Pituitary gland"
+        },
+        {
+          "question": "What is the name of the bone in the spine?",
+          "options": ["Vertebrae", "Ribs", "Sternum", "Clavicle"],
+          "answer": "Vertebrae"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating emotions?",
+          "options": ["Amygdala", "Hippocampus", "Thalamus", "Hypothalamus"],
+          "answer": "Amygdala"
+        },
+        {
+          "question": "What is the name of the fluid that carries immune cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Lymph"
+        },
+        {
+          "question": "Which bone is found in the pelvis?",
+          "options": ["Ilium", "Ischium", "Pubis", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to flex your leg?",
+          "options": ["Quadriceps", "Hamstrings", "Gastrocnemius", "Sartorius"],
+          "answer": "Quadriceps"
+        },
+        {
+          "question": "Which organ is responsible for producing urine?",
+          "options": ["Liver", "Kidney", "Spleen", "Pancreas"],
+          "answer": "Kidney"
+        },
+        {
+          "question": "What is the name of the bone in the lower back?",
+          "options": ["Lumbar vertebrae", "Thoracic vertebrae", "Cervical vertebrae", "Sacrum"],
+          "answer": "Lumbar vertebrae"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating hunger?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries carbon dioxide in the blood?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the upper back?",
+          "options": ["Scapula", "Clavicle", "Humerus", "Sternum"],
+          "answer": "Scapula"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to extend your leg?",
+          "options": ["Quadriceps", "Hamstrings", "Gastrocnemius", "Sartorius"],
+          "answer": "Hamstrings"
+        },
+        {
+          "question": "Which organ is responsible for producing digestive enzymes?",
+          "options": ["Liver", "Pancreas", "Stomach", "Small intestine"],
+          "answer": "Pancreas"
+        },
+        {
+          "question": "What is the name of the bone in the neck?",
+          "options": ["Cervical vertebrae", "Thoracic vertebrae", "Lumbar vertebrae", "Sacrum"],
+          "answer": "Cervical vertebrae"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating thirst?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries nutrients to cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Lymph"
+        },
+        {
+          "question": "Which bone is found in the face?",
+          "options": ["Maxilla", "Mandible", "Zygomatic bone", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to rotate your leg?",
+          "options": ["Quadriceps", "Hamstrings", "Gastrocnemius", "Sartorius"],
+          "answer": "Sartorius"
+        },
+        {
+          "question": "Which organ is responsible for producing bile?",
+          "options": ["Liver", "Gallbladder", "Pancreas", "Stomach"],
+          "answer": "Liver"
+        },
+        {
+          "question": "What is the name of the bone in the upper chest?",
+          "options": ["Sternum", "Ribs", "Clavicle", "Scapula"],
+          "answer": "Sternum"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating body temperature?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries waste products away from cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Lymph"
+        },
+        {
+          "question": "Which bone is found in the lower chest?",
+          "options": ["Sternum", "Ribs", "Clavicle", "Scapula"],
+          "answer": "Ribs"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to flex your foot?",
+          "options": ["Tibialis anterior", "Gastrocnemius", "Soleus", "Peroneus longus"],
+          "answer": "Tibialis anterior"
+        },
+        {
+          "question": "Which organ is responsible for producing insulin?",
+          "options": ["Liver", "Pancreas", "Stomach", "Small intestine"],
+          "answer": "Pancreas"
+        },
+        {
+          "question": "What is the name of the bone in the upper arm?",
+          "options": ["Humerus", "Radius", "Ulna", "Scapula"],
+          "answer": "Humerus"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating sleep?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries oxygen to cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Hemoglobin"
+        },
+        {
+          "question": "Which bone is found in the lower arm?",
+          "options": ["Radius", "Ulna", "Humerus", "Scapula"],
+          "answer": "Radius"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to extend your foot?",
+          "options": ["Tibialis anterior", "Gastrocnemius", "Soleus", "Peroneus longus"],
+          "answer": "Gastrocnemius"
+        },
+        {
+          "question": "Which organ is responsible for producing glucagon?",
+          "options": ["Liver", "Pancreas", "Stomach", "Small intestine"],
+          "answer": "Pancreas"
+        },
+        {
+          "question": "What is the name of the bone in the upper leg?",
+          "options": ["Femur", "Tibia", "Fibula", "Patella"],
+          "answer": "Femur"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating balance?",
+          "options": ["Cerebellum", "Cerebrum", "Medulla oblongata", "Thalamus"],
+          "answer": "Cerebellum"
+        },
+        {
+          "question": "What is the name of the fluid that carries carbon dioxide away from cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the lower leg?",
+          "options": ["Tibia", "Fibula", "Femur", "Patella"],
+          "answer": "Tibia"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to rotate your foot?",
+          "options": ["Tibialis anterior", "Gastrocnemius", "Soleus", "Peroneus longus"],
+          "answer": "Peroneus longus"
+        },
+        {
+          "question": "Which organ is responsible for producing adrenaline?",
+          "options": ["Liver", "Pancreas", "Adrenal gland", "Thyroid gland"],
+          "answer": "Adrenal gland"
+        },
+        {
+          "question": "What is the name of the bone in the knee?",
+          "options": ["Patella", "Tibia", "Fibula", "Femur"],
+          "answer": "Patella"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating heart rate?",
+          "options": ["Medulla oblongata", "Cerebellum", "Thalamus", "Hypothalamus"],
+          "answer": "Medulla oblongata"
+        },
+        {
+          "question": "What is the name of the fluid that carries hormones to cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the ankle?",
+          "options": ["Tarsals", "Metatarsals", "Phalanges", "All of the above"],
+          "answer": "Tarsals"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to flex your toes?",
+          "options": ["Flexor digitorum longus", "Extensor digitorum longus", "Tibialis anterior", "Peroneus longus"],
+          "answer": "Flexor digitorum longus"
+        },
+        {
+          "question": "Which organ is responsible for producing thyroxine?",
+          "options": ["Thyroid gland", "Adrenal gland", "Pancreas", "Pituitary gland"],
+          "answer": "Thyroid gland"
+        },
+        {
+          "question": "What is the name of the bone in the foot?",
+          "options": ["Tarsals", "Metatarsals", "Phalanges", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating blood pressure?",
+          "options": ["Medulla oblongata", "Cerebellum", "Thalamus", "Hypothalamus"],
+          "answer": "Medulla oblongata"
+        },
+        {
+          "question": "What is the name of the fluid that carries waste products to the kidneys?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the hand?",
+          "options": ["Carpals", "Metacarpals", "Phalanges", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to extend your toes?",
+          "options": ["Flexor digitorum longus", "Extensor digitorum longus", "Tibialis anterior", "Peroneus longus"],
+          "answer": "Extensor digitorum longus"
+        },
+        {
+          "question": "Which organ is responsible for producing cortisol?",
+          "options": ["Thyroid gland", "Adrenal gland", "Pancreas", "Pituitary gland"],
+          "answer": "Adrenal gland"
+        },
+        {
+          "question": "What is the name of the bone in the fingers?",
+          "options": ["Carpals", "Metacarpals", "Phalanges", "Tarsals"],
+          "answer": "Phalanges"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating breathing?",
+          "options": ["Medulla oblongata", "Cerebellum", "Thalamus", "Hypothalamus"],
+          "answer": "Medulla oblongata"
+        },
+        {
+          "question": "What is the name of the fluid that carries oxygen to the brain?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Hemoglobin"
+        },
+        {
+          "question": "Which bone is found in the toes?",
+          "options": ["Tarsals", "Metatarsals", "Phalanges", "All of the above"],
+          "answer": "Phalanges"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to rotate your foot?",
+          "options": ["Tibialis anterior", "Gastrocnemius", "Soleus", "Peroneus longus"],
+          "answer": "Peroneus longus"
+        },
+        {
+          "question": "Which organ is responsible for producing growth hormone?",
+          "options": ["Thyroid gland", "Adrenal gland", "Pancreas", "Pituitary gland"],
+          "answer": "Pituitary gland"
+        },
+        {
+          "question": "What is the name of the bone in the spine?",
+          "options": ["Vertebrae", "Ribs", "Sternum", "Clavicle"],
+          "answer": "Vertebrae"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating emotions?",
+          "options": ["Amygdala", "Hippocampus", "Thalamus", "Hypothalamus"],
+          "answer": "Amygdala"
+        },
+        {
+          "question": "What is the name of the fluid that carries immune cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Lymph"
+        },
+        {
+          "question": "Which bone is found in the pelvis?",
+          "options": ["Ilium", "Ischium", "Pubis", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to flex your leg?",
+          "options": ["Quadriceps", "Hamstrings", "Gastrocnemius", "Sartorius"],
+          "answer": "Quadriceps"
+        },
+        {
+          "question": "Which organ is responsible for producing urine?",
+          "options": ["Liver", "Kidney", "Spleen", "Pancreas"],
+          "answer": "Kidney"
+        },
+        {
+          "question": "What is the name of the bone in the lower back?",
+          "options": ["Lumbar vertebrae", "Thoracic vertebrae", "Cervical vertebrae", "Sacrum"],
+          "answer": "Lumbar vertebrae"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating hunger?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries carbon dioxide in the blood?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Plasma"
+        },
+        {
+          "question": "Which bone is found in the upper back?",
+          "options": ["Scapula", "Clavicle", "Humerus", "Sternum"],
+          "answer": "Scapula"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to extend your leg?",
+          "options": ["Quadriceps", "Hamstrings", "Gastrocnemius", "Sartorius"],
+          "answer": "Hamstrings"
+        },
+        {
+          "question": "Which organ is responsible for producing digestive enzymes?",
+          "options": ["Liver", "Pancreas", "Stomach", "Small intestine"],
+          "answer": "Pancreas"
+        },
+        {
+          "question": "What is the name of the bone in the neck?",
+          "options": ["Cervical vertebrae", "Thoracic vertebrae", "Lumbar vertebrae", "Sacrum"],
+          "answer": "Cervical vertebrae"
+        },
+        {
+          "question": "Which part of the brain is responsible for regulating thirst?",
+          "options": ["Hypothalamus", "Thalamus", "Pons", "Medulla oblongata"],
+          "answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the name of the fluid that carries nutrients to cells?",
+          "options": ["Plasma", "Hemoglobin", "Lymph", "Serum"],
+          "answer": "Lymph"
+        },
+        {
+          "question": "Which bone is found in the face?",
+          "options": ["Maxilla", "Mandible", "Zygomatic bone", "All of the above"],
+          "answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the muscle that allows you to rotate your leg?",
+          "options": ["Quadriceps", "Hamstrings", "Gastrocnemius", "Sartorius"],
+          "answer": "Sartorius"
+        },
+        {
+          "question": "Which organ is responsible for producing bile?",
+          "options": ["Liver", "Gallbladder", "Pancreas", "Stomach"],
+          "answer": "Liver"
+        cycle"
+          }
+          ]
+          },
+ {
+  
+      "name": "Physiology",
+      "questions": [
+        {
+          "question": "A patient presents with hyperkalemia and metabolic acidosis. Which of the following mechanisms is most likely impaired?",
+          "options": [
+            "Aldosterone secretion",
+            "Renin-angiotensin system",
+            "Sodium-potassium ATPase pump",
+            "Parathyroid hormone secretion"
+          ],
+          "answer": "Aldosterone secretion"
+        },
+        {
+          "question": "In a patient with chronic obstructive pulmonary disease (COPD), which of the following changes in pulmonary function tests is most characteristic?",
+          "options": [
+            "Decreased FEV1/FVC ratio",
+            "Increased total lung capacity (TLC)",
+            "Decreased residual volume (RV)",
+            "Increased forced expiratory volume in 1 second (FEV1)"
+          ],
+          "answer": "Decreased FEV1/FVC ratio"
+        },
+        {
+          "question": "A patient with Addison's disease is likely to exhibit which of the following laboratory findings?",
+          "options": [
+            "Hyperkalemia and hyponatremia",
+            "Hypokalemia and hypernatremia",
+            "Hypercalcemia and hypophosphatemia",
+            "Hypocalcemia and hyperphosphatemia"
+          ],
+          "answer": "Hyperkalemia and hyponatremia"
+        },
+        {
+          "question": "Which of the following best explains the physiological basis of Cheyne-Stokes respiration in heart failure patients?",
+          "options": [
+            "Increased sensitivity of central chemoreceptors to CO2",
+            "Decreased sensitivity of peripheral chemoreceptors to O2",
+            "Delayed circulation time leading to oscillatory feedback in respiratory control",
+            "Increased pulmonary compliance causing irregular breathing patterns"
+          ],
+          "answer": "Delayed circulation time leading to oscillatory feedback in respiratory control"
+        },
+        {
+          "question": "A patient with type 1 diabetes mellitus develops diabetic ketoacidosis (DKA). Which of the following electrolyte abnormalities is most likely to occur?",
+          "options": [
+            "Hypokalemia",
+            "Hyperkalemia",
+            "Hypercalcemia",
+            "Hypomagnesemia"
+          ],
+          "answer": "Hyperkalemia"
+        },
+        {
+          "question": "In a patient with syndrome of inappropriate antidiuretic hormone secretion (SIADH), which of the following findings is most characteristic?",
+          "options": [
+            "Hyponatremia and concentrated urine",
+            "Hypernatremia and dilute urine",
+            "Hypokalemia and metabolic alkalosis",
+            "Hyperkalemia and metabolic acidosis"
+          ],
+          "answer": "Hyponatremia and concentrated urine"
+        },
+        {
+          "question": "Which of the following mechanisms is primarily responsible for the development of edema in nephrotic syndrome?",
+          "options": [
+            "Decreased oncotic pressure due to hypoalbuminemia",
+            "Increased hydrostatic pressure in the glomerular capillaries",
+            "Overactivation of the renin-angiotensin-aldosterone system (RAAS)",
+            "Excessive sodium retention due to aldosterone hypersecretion"
+          ],
+          "answer": "Decreased oncotic pressure due to hypoalbuminemia"
+        },
+        {
+          "question": "A patient with chronic kidney disease (CKD) develops secondary hyperparathyroidism. Which of the following is the most likely underlying mechanism?",
+          "options": [
+            "Decreased phosphate excretion leading to hyperphosphatemia",
+            "Increased calcium absorption in the gut",
+            "Decreased vitamin D activation in the kidneys",
+            "Increased sensitivity of parathyroid hormone (PTH) receptors"
+          ],
+          "answer": "Decreased vitamin D activation in the kidneys"
+        },
+        {
+          "question": "In a patient with acute respiratory distress syndrome (ARDS), which of the following pathophysiological changes is most characteristic?",
+          "options": [
+            "Increased pulmonary compliance",
+            "Decreased alveolar-capillary membrane permeability",
+            "Non-cardiogenic pulmonary edema",
+            "Increased surfactant production"
+          ],
+          "answer": "Non-cardiogenic pulmonary edema"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of loop diuretics such as furosemide?",
+          "options": [
+            "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb of the loop of Henle",
+            "Block aldosterone receptors in the distal convoluted tubule",
+            "Inhibit carbonic anhydrase in the proximal tubule",
+            "Enhance water reabsorption in the collecting duct"
+          ],
+          "answer": "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb of the loop of Henle"
+        },
+        {
+          "question": "A patient with liver cirrhosis develops hepatic encephalopathy. Which of the following mechanisms is most likely responsible?",
+          "options": [
+            "Increased ammonia levels due to impaired urea cycle",
+            "Decreased gamma-aminobutyric acid (GABA) activity",
+            "Increased dopamine production in the brain",
+            "Decreased glutamine synthesis in astrocytes"
+          ],
+          "answer": "Increased ammonia levels due to impaired urea cycle"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of metabolic alkalosis in a patient with prolonged vomiting?",
+          "options": [
+            "Loss of gastric acid leading to increased bicarbonate retention",
+            "Increased renal excretion of bicarbonate",
+            "Hypoventilation leading to CO2 retention",
+            "Excessive aldosterone secretion"
+          ],
+          "answer": "Loss of gastric acid leading to increased bicarbonate retention"
+        },
+        {
+          "question": "In a patient with myasthenia gravis, which of the following pathophysiological mechanisms is most likely involved?",
+          "options": [
+            "Autoantibodies against acetylcholine receptors at the neuromuscular junction",
+            "Degeneration of motor neurons in the spinal cord",
+            "Impaired calcium release from the sarcoplasmic reticulum",
+            "Defective synthesis of acetylcholine in presynaptic neurons"
+          ],
+          "answer": "Autoantibodies against acetylcholine receptors at the neuromuscular junction"
+        },
+        {
+          "question": "A patient with Cushing's syndrome is most likely to exhibit which of the following laboratory findings?",
+          "options": [
+            "Hypokalemia and metabolic alkalosis",
+            "Hyperkalemia and metabolic acidosis",
+            "Hypercalcemia and hypophosphatemia",
+            "Hypocalcemia and hyperphosphatemia"
+          ],
+          "answer": "Hypokalemia and metabolic alkalosis"
+        },
+        {
+          "question": "Which of the following best explains the physiological basis of orthostatic hypotension in a patient with autonomic dysfunction?",
+          "options": [
+            "Impaired baroreceptor reflex leading to inadequate vasoconstriction",
+            "Increased sympathetic outflow causing excessive vasodilation",
+            "Decreased cardiac output due to heart failure",
+            "Overactivation of the renin-angiotensin-aldosterone system (RAAS)"
+          ],
+          "answer": "Impaired baroreceptor reflex leading to inadequate vasoconstriction"
+        },
+        {
+          "question": "In a patient with acute pancreatitis, which of the following electrolyte abnormalities is most likely to occur?",
+          "options": [
+            "Hypocalcemia",
+            "Hyperkalemia",
+            "Hypermagnesemia",
+            "Hypophosphatemia"
+          ],
+          "answer": "Hypocalcemia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of hyperkalemia in a patient with acute kidney injury (AKI)?",
+          "options": [
+            "Impaired renal excretion of potassium",
+            "Increased aldosterone secretion",
+            "Excessive potassium intake",
+            "Shift of potassium from intracellular to extracellular space"
+          ],
+          "answer": "Impaired renal excretion of potassium"
+        },
+        {
+          "question": "A patient with hypothyroidism is most likely to exhibit which of the following clinical findings?",
+          "options": [
+            "Bradycardia and cold intolerance",
+            "Tachycardia and heat intolerance",
+            "Hypertension and weight loss",
+            "Hyperreflexia and tremors"
+          ],
+          "answer": "Bradycardia and cold intolerance"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of beta-blockers in the treatment of hypertension?",
+          "options": [
+            "Decrease cardiac output by reducing heart rate and contractility",
+            "Increase renal sodium excretion by blocking aldosterone receptors",
+            "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle",
+            "Reduce sympathetic outflow from the central nervous system"
+          ],
+          "answer": "Decrease cardiac output by reducing heart rate and contractility"
+        },
+        {
+          "question": "In a patient with pheochromocytoma, which of the following clinical findings is most characteristic?",
+          "options": [
+            "Episodic hypertension and tachycardia",
+            "Persistent hypotension and bradycardia",
+            "Hyperglycemia and weight gain",
+            "Hypokalemia and metabolic alkalosis"
+          ],
+          "answer": "Episodic hypertension and tachycardia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of respiratory acidosis in a patient with severe asthma?",
+          "options": [
+            "Hypoventilation leading to CO2 retention",
+            "Hyperventilation leading to CO2 elimination",
+            "Increased production of lactic acid",
+            "Decreased bicarbonate reabsorption in the kidneys"
+          ],
+          "answer": "Hypoventilation leading to CO2 retention"
+        },
+        {
+          "question": "A patient with hyperthyroidism is most likely to exhibit which of the following clinical findings?",
+          "options": [
+            "Tachycardia and heat intolerance",
+            "Bradycardia and cold intolerance",
+            "Hypertension and weight gain",
+            "Hypotension and weight loss"
+          ],
+          "answer": "Tachycardia and heat intolerance"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of angiotensin-converting enzyme (ACE) inhibitors in the treatment of hypertension?",
+          "options": [
+            "Inhibit the conversion of angiotensin I to angiotensin II",
+            "Block aldosterone receptors in the distal tubule",
+            "Increase sodium excretion by inhibiting the Na-K-2Cl cotransporter",
+            "Cause vasodilation by activating nitric oxide synthase"
+          ],
+          "answer": "Inhibit the conversion of angiotensin I to angiotensin II"
+        },
+        {
+          "question": "In a patient with chronic obstructive pulmonary disease (COPD), which of the following changes in arterial blood gases is most characteristic?",
+          "options": [
+            "Hypoxemia and hypercapnia",
+            "Hyperoxemia and hypocapnia",
+            "Hypoxemia and hypocapnia",
+            "Hyperoxemia and hypercapnia"
+          ],
+          "answer": "Hypoxemia and hypercapnia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of metabolic acidosis in a patient with diabetic ketoacidosis (DKA)?",
+          "options": [
+            "Increased production of ketone bodies",
+            "Decreased renal excretion of bicarbonate",
+            "Excessive loss of gastric acid",
+            "Increased production of lactic acid"
+          ],
+          "answer": "Increased production of ketone bodies"
+        },
+        {
+          "question": "A patient with hypoparathyroidism is most likely to exhibit which of the following laboratory findings?",
+          "options": [
+            "Hypocalcemia and hyperphosphatemia",
+            "Hypercalcemia and hypophosphatemia",
+            "Hypokalemia and metabolic alkalosis",
+            "Hyperkalemia and metabolic acidosis"
+          ],
+          "answer": "Hypocalcemia and hyperphosphatemia"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of calcium channel blockers in the treatment of hypertension?",
+          "options": [
+            "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle",
+            "Decrease cardiac output by reducing heart rate and contractility",
+            "Increase renal sodium excretion by blocking aldosterone receptors",
+            "Reduce sympathetic outflow from the central nervous system"
+          ],
+          "answer": "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle"
+        },
+        {
+          "question": "In a patient with acute myocardial infarction, which of the following cardiac biomarkers is most specific for myocardial injury?",
+          "options": [
+            "Troponin I",
+            "Creatine kinase-MB (CK-MB)",
+            "Lactate dehydrogenase (LDH)",
+            "Myoglobin"
+          ],
+          "answer": "Troponin I"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of hypercalcemia in a patient with multiple myeloma?",
+          "options": [
+            "Increased bone resorption due to osteoclast activation",
+            "Decreased renal excretion of calcium",
+            "Increased intestinal absorption of calcium",
+            "Excessive production of parathyroid hormone (PTH)"
+          ],
+          "answer": "Increased bone resorption due to osteoclast activation"
+        },
+        {
+          "question": "A patient with chronic liver disease develops hepatorenal syndrome. Which of the following pathophysiological mechanisms is most likely involved?",
+          "options": [
+            "Severe renal vasoconstriction due to portal hypertension",
+            "Direct toxicity of bilirubin on renal tubules",
+            "Excessive sodium retention due to aldosterone hypersecretion",
+            "Decreased renal perfusion due to hypovolemia"
+          ],
+          "answer": "Severe renal vasoconstriction due to portal hypertension"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of spironolactone in the treatment of hypertension?",
+          "options": [
+            "Block aldosterone receptors in the distal tubule",
+            "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb",
+            "Cause vasodilation by activating nitric oxide synthase",
+            "Decrease cardiac output by reducing heart rate and contractility"
+          ],
+          "answer": "Block aldosterone receptors in the distal tubule"
+        },
+        {
+          "question": "In a patient with acute pulmonary embolism, which of the following changes in arterial blood gases is most characteristic?",
+          "options": [
+            "Hypoxemia and hypocapnia",
+            "Hyperoxemia and hypercapnia",
+            "Hypoxemia and hypercapnia",
+            "Hyperoxemia and hypocapnia"
+          ],
+          "answer": "Hypoxemia and hypocapnia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of metabolic alkalosis in a patient with primary hyperaldosteronism?",
+          "options": [
+            "Increased renal excretion of hydrogen ions",
+            "Decreased renal excretion of bicarbonate",
+            "Excessive loss of gastric acid",
+            "Increased production of lactic acid"
+          ],
+          "answer": "Increased renal excretion of hydrogen ions"
+        },
+        {
+          "question": "A patient with chronic kidney disease (CKD) develops anemia. Which of the following mechanisms is most likely responsible?",
+          "options": [
+            "Decreased production of erythropoietin by the kidneys",
+            "Increased destruction of red blood cells",
+            "Iron deficiency due to poor dietary intake",
+            "Vitamin B12 deficiency due to malabsorption"
+          ],
+          "answer": "Decreased production of erythropoietin by the kidneys"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of thiazide diuretics in the treatment of hypertension?",
+          "options": [
+            "Inhibit the Na-Cl cotransporter in the distal convoluted tubule",
+            "Block aldosterone receptors in the distal tubule",
+            "Cause vasodilation by activating nitric oxide synthase",
+            "Decrease cardiac output by reducing heart rate and contractility"
+          ],
+          "answer": "Inhibit the Na-Cl cotransporter in the distal convoluted tubule"
+        },
+        {
+          "question": "In a patient with acute respiratory failure, which of the following changes in arterial blood gases is most characteristic?",
+          "options": [
+            "Hypoxemia and hypercapnia",
+            "Hyperoxemia and hypocapnia",
+            "Hypoxemia and hypocapnia",
+            "Hyperoxemia and hypercapnia"
+          ],
+          "answer": "Hypoxemia and hypercapnia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of hypokalemia in a patient with primary hyperaldosteronism?",
+          "options": [
+            "Increased renal excretion of potassium",
+            "Decreased dietary intake of potassium",
+            "Shift of potassium from extracellular to intracellular space",
+            "Excessive loss of potassium through the gastrointestinal tract"
+          ],
+          "answer": "Increased renal excretion of potassium"
+        },
+        {
+          "question": "A patient with chronic obstructive pulmonary disease (COPD) develops cor pulmonale. Which of the following pathophysiological mechanisms is most likely involved?",
+          "options": [
+            "Pulmonary hypertension leading to right ventricular hypertrophy",
+            "Left ventricular failure leading to pulmonary congestion",
+            "Increased pulmonary compliance causing right ventricular dilation",
+            "Decreased systemic vascular resistance leading to right ventricular failure"
+          ],
+          "answer": "Pulmonary hypertension leading to right ventricular hypertrophy"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of loop diuretics in the treatment of heart failure?",
+          "options": [
+            "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb of the loop of Henle",
+            "Block aldosterone receptors in the distal tubule",
+            "Cause vasodilation by activating nitric oxide synthase",
+            "Decrease cardiac output by reducing heart rate and contractility"
+          ],
+          "answer": "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb of the loop of Henle"
+        },
+        {
+          "question": "In a patient with acute kidney injury (AKI), which of the following electrolyte abnormalities is most likely to occur?",
+          "options": [
+            "Hyperkalemia",
+            "Hypocalcemia",
+            "Hypermagnesemia",
+            "Hypophosphatemia"
+          ],
+          "answer": "Hyperkalemia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of metabolic acidosis in a patient with chronic kidney disease (CKD)?",
+          "options": [
+            "Decreased renal excretion of hydrogen ions",
+            "Increased production of lactic acid",
+            "Excessive loss of bicarbonate through the gastrointestinal tract",
+            "Increased renal excretion of bicarbonate"
+          ],
+          "answer": "Decreased renal excretion of hydrogen ions"
+        },
+        {
+          "question": "A patient with chronic liver disease develops hepatic encephalopathy. Which of the following mechanisms is most likely responsible?",
+          "options": [
+            "Increased ammonia levels due to impaired urea cycle",
+            "Decreased gamma-aminobutyric acid (GABA) activity",
+            "Increased dopamine production in the brain",
+            "Decreased glutamine synthesis in astrocytes"
+          ],
+          "answer": "Increased ammonia levels due to impaired urea cycle"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of beta-blockers in the treatment of heart failure?",
+          "options": [
+            "Decrease cardiac output by reducing heart rate and contractility",
+            "Increase renal sodium excretion by blocking aldosterone receptors",
+            "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle",
+            "Reduce sympathetic outflow from the central nervous system"
+          ],
+          "answer": "Decrease cardiac output by reducing heart rate and contractility"
+        },
+        {
+          "question": "In a patient with acute pancreatitis, which of the following electrolyte abnormalities is most likely to occur?",
+          "options": [
+            "Hypocalcemia",
+            "Hyperkalemia",
+            "Hypermagnesemia",
+            "Hypophosphatemia"
+          ],
+          "answer": "Hypocalcemia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of hyperkalemia in a patient with acute kidney injury (AKI)?",
+          "options": [
+            "Impaired renal excretion of potassium",
+            "Increased aldosterone secretion",
+            "Excessive potassium intake",
+            "Shift of potassium from intracellular to extracellular space"
+          ],
+          "answer": "Impaired renal excretion of potassium"
+        },
+        {
+          "question": "A patient with hypothyroidism is most likely to exhibit which of the following clinical findings?",
+          "options": [
+            "Bradycardia and cold intolerance",
+            "Tachycardia and heat intolerance",
+            "Hypertension and weight loss",
+            "Hyperreflexia and tremors"
+          ],
+          "answer": "Bradycardia and cold intolerance"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of beta-blockers in the treatment of hypertension?",
+          "options": [
+            "Decrease cardiac output by reducing heart rate and contractility",
+            "Increase renal sodium excretion by blocking aldosterone receptors",
+            "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle",
+            "Reduce sympathetic outflow from the central nervous system"
+          ],
+          "answer": "Decrease cardiac output by reducing heart rate and contractility"
+        },
+        {
+          "question": "In a patient with pheochromocytoma, which of the following clinical findings is most characteristic?",
+          "options": [
+            "Episodic hypertension and tachycardia",
+            "Persistent hypotension and bradycardia",
+            "Hyperglycemia and weight gain",
+            "Hypokalemia and metabolic alkalosis"
+          ],
+          "answer": "Episodic hypertension and tachycardia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of respiratory acidosis in a patient with severe asthma?",
+          "options": [
+            "Hypoventilation leading to CO2 retention",
+            "Hyperventilation leading to CO2 elimination",
+            "Increased production of lactic acid",
+            "Decreased bicarbonate reabsorption in the kidneys"
+          ],
+          "answer": "Hypoventilation leading to CO2 retention"
+        },
+        {
+          "question": "A patient with hyperthyroidism is most likely to exhibit which of the following clinical findings?",
+          "options": [
+            "Tachycardia and heat intolerance",
+            "Bradycardia and cold intolerance",
+            "Hypertension and weight gain",
+            "Hypotension and weight loss"
+          ],
+          "answer": "Tachycardia and heat intolerance"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of angiotensin-converting enzyme (ACE) inhibitors in the treatment of hypertension?",
+          "options": [
+            "Inhibit the conversion of angiotensin I to angiotensin II",
+            "Block aldosterone receptors in the distal tubule",
+            "Increase sodium excretion by inhibiting the Na-K-2Cl cotransporter",
+            "Cause vasodilation by activating nitric oxide synthase"
+          ],
+          "answer": "Inhibit the conversion of angiotensin I to angiotensin II"
+        },
+        {
+          "question": "In a patient with chronic obstructive pulmonary disease (COPD), which of the following changes in arterial blood gases is most characteristic?",
+          "options": [
+            "Hypoxemia and hypercapnia",
+            "Hyperoxemia and hypocapnia",
+            "Hypoxemia and hypocapnia",
+            "Hyperoxemia and hypercapnia"
+          ],
+          "answer": "Hypoxemia and hypercapnia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of metabolic acidosis in a patient with diabetic ketoacidosis (DKA)?",
+          "options": [
+            "Increased production of ketone bodies",
+            "Decreased renal excretion of bicarbonate",
+            "Excessive loss of gastric acid",
+            "Increased production of lactic acid"
+          ],
+          "answer": "Increased production of ketone bodies"
+        },
+        {
+          "question": "A patient with hypoparathyroidism is most likely to exhibit which of the following laboratory findings?",
+          "options": [
+            "Hypocalcemia and hyperphosphatemia",
+            "Hypercalcemia and hypophosphatemia",
+            "Hypokalemia and metabolic alkalosis",
+            "Hyperkalemia and metabolic acidosis"
+          ],
+          "answer": "Hypocalcemia and hyperphosphatemia"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of calcium channel blockers in the treatment of hypertension?",
+          "options": [
+            "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle",
+            "Decrease cardiac output by reducing heart rate and contractility",
+            "Increase renal sodium excretion by blocking aldosterone receptors",
+            "Reduce sympathetic outflow from the central nervous system"
+          ],
+          "answer": "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle"
+        },
+        {
+          "question": "In a patient with acute myocardial infarction, which of the following cardiac biomarkers is most specific for myocardial injury?",
+          "options": [
+            "Troponin I",
+            "Creatine kinase-MB (CK-MB)",
+            "Lactate dehydrogenase (LDH)",
+            "Myoglobin"
+          ],
+          "answer": "Troponin I"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of hypercalcemia in a patient with multiple myeloma?",
+          "options": [
+            "Increased bone resorption due to osteoclast activation",
+            "Decreased renal excretion of calcium",
+            "Increased intestinal absorption of calcium",
+            "Excessive production of parathyroid hormone (PTH)"
+          ],
+          "answer": "Increased bone resorption due to osteoclast activation"
+        },
+        {
+          "question": "A patient with chronic liver disease develops hepatorenal syndrome. Which of the following pathophysiological mechanisms is most likely involved?",
+          "options": [
+            "Severe renal vasoconstriction due to portal hypertension",
+            "Direct toxicity of bilirubin on renal tubules",
+            "Excessive sodium retention due to aldosterone hypersecretion",
+            "Decreased renal perfusion due to hypovolemia"
+          ],
+          "answer": "Severe renal vasoconstriction due to portal hypertension"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of spironolactone in the treatment of hypertension?",
+          "options": [
+            "Block aldosterone receptors in the distal tubule",
+            "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb",
+            "Cause vasodilation by activating nitric oxide synthase",
+            "Decrease cardiac output by reducing heart rate and contractility"
+          ],
+          "answer": "Block aldosterone receptors in the distal tubule"
+        },
+        {
+          "question": "In a patient with acute pulmonary embolism, which of the following changes in arterial blood gases is most characteristic?",
+          "options": [
+            "Hypoxemia and hypocapnia",
+            "Hyperoxemia and hypercapnia",
+            "Hypoxemia and hypercapnia",
+            "Hyperoxemia and hypocapnia"
+          ],
+          "answer": "Hypoxemia and hypocapnia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of metabolic alkalosis in a patient with primary hyperaldosteronism?",
+          "options": [
+            "Increased renal excretion of hydrogen ions",
+            "Decreased renal excretion of bicarbonate",
+            "Excessive loss of gastric acid",
+            "Increased production of lactic acid"
+          ],
+          "answer": "Increased renal excretion of hydrogen ions"
+        },
+        {
+          "question": "A patient with chronic kidney disease (CKD) develops anemia. Which of the following mechanisms is most likely responsible?",
+          "options": [
+            "Decreased production of erythropoietin by the kidneys",
+            "Increased destruction of red blood cells",
+            "Iron deficiency due to poor dietary intake",
+            "Vitamin B12 deficiency due to malabsorption"
+          ],
+          "answer": "Decreased production of erythropoietin by the kidneys"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of thiazide diuretics in the treatment of hypertension?",
+          "options": [
+            "Inhibit the Na-Cl cotransporter in the distal convoluted tubule",
+            "Block aldosterone receptors in the distal tubule",
+            "Cause vasodilation by activating nitric oxide synthase",
+            "Decrease cardiac output by reducing heart rate and contractility"
+          ],
+          "answer": "Inhibit the Na-Cl cotransporter in the distal convoluted tubule"
+        },
+        {
+          "question": "In a patient with acute respiratory failure, which of the following changes in arterial blood gases is most characteristic?",
+          "options": [
+            "Hypoxemia and hypercapnia",
+            "Hyperoxemia and hypocapnia",
+            "Hypoxemia and hypocapnia",
+            "Hyperoxemia and hypercapnia"
+          ],
+          "answer": "Hypoxemia and hypercapnia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of hypokalemia in a patient with primary hyperaldosteronism?",
+          "options": [
+            "Increased renal excretion of potassium",
+            "Decreased dietary intake of potassium",
+            "Shift of potassium from extracellular to intracellular space",
+            "Excessive loss of potassium through the gastrointestinal tract"
+          ],
+          "answer": "Increased renal excretion of potassium"
+        },
+        {
+          "question": "A patient with chronic obstructive pulmonary disease (COPD) develops cor pulmonale. Which of the following pathophysiological mechanisms is most likely involved?",
+          "options": [
+            "Pulmonary hypertension leading to right ventricular hypertrophy",
+            "Left ventricular failure leading to pulmonary congestion",
+            "Increased pulmonary compliance causing right ventricular dilation",
+            "Decreased systemic vascular resistance leading to right ventricular failure"
+          ],
+          "answer": "Pulmonary hypertension leading to right ventricular hypertrophy"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of loop diuretics in the treatment of heart failure?",
+          "options": [
+            "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb of the loop of Henle",
+            "Block aldosterone receptors in the distal tubule",
+            "Cause vasodilation by activating nitric oxide synthase",
+            "Decrease cardiac output by reducing heart rate and contractility"
+          ],
+          "answer": "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb of the loop of Henle"
+        },
+        {
+          "question": "In a patient with acute kidney injury (AKI), which of the following electrolyte abnormalities is most likely to occur?",
+          "options": [
+            "Hyperkalemia",
+            "Hypocalcemia",
+            "Hypermagnesemia",
+            "Hypophosphatemia"
+          ],
+          "answer": "Hyperkalemia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of metabolic acidosis in a patient with chronic kidney disease (CKD)?",
+          "options": [
+            "Decreased renal excretion of hydrogen ions",
+            "Increased production of lactic acid",
+            "Excessive loss of bicarbonate through the gastrointestinal tract",
+            "Increased renal excretion of bicarbonate"
+          ],
+          "answer": "Decreased renal excretion of hydrogen ions"
+        },
+        {
+          "question": "A patient with chronic liver disease develops hepatic encephalopathy. Which of the following mechanisms is most likely responsible?",
+          "options": [
+            "Increased ammonia levels due to impaired urea cycle",
+            "Decreased gamma-aminobutyric acid (GABA) activity",
+            "Increased dopamine production in the brain",
+            "Decreased glutamine synthesis in astrocytes"
+          ],
+          "answer": "Increased ammonia levels due to impaired urea cycle"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of beta-blockers in the treatment of heart failure?",
+          "options": [
+            "Decrease cardiac output by reducing heart rate and contractility",
+            "Increase renal sodium excretion by blocking aldosterone receptors",
+            "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle",
+            "Reduce sympathetic outflow from the central nervous system"
+          ],
+          "answer": "Decrease cardiac output by reducing heart rate and contractility"
+        },
+        {
+          "question": "In a patient with acute pancreatitis, which of the following electrolyte abnormalities is most likely to occur?",
+          "options": [
+            "Hypocalcemia",
+            "Hyperkalemia",
+            "Hypermagnesemia",
+            "Hypophosphatemia"
+          ],
+          "answer": "Hypocalcemia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of hyperkalemia in a patient with acute kidney injury (AKI)?",
+          "options": [
+            "Impaired renal excretion of potassium",
+            "Increased aldosterone secretion",
+            "Excessive potassium intake",
+            "Shift of potassium from intracellular to extracellular space"
+          ],
+          "answer": "Impaired renal excretion of potassium"
+        },
+        {
+          "question": "A patient with hypothyroidism is most likely to exhibit which of the following clinical findings?",
+          "options": [
+            "Bradycardia and cold intolerance",
+            "Tachycardia and heat intolerance",
+            "Hypertension and weight loss",
+            "Hyperreflexia and tremors"
+          ],
+          "answer": "Bradycardia and cold intolerance"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of beta-blockers in the treatment of hypertension?",
+          "options": [
+            "Decrease cardiac output by reducing heart rate and contractility",
+            "Increase renal sodium excretion by blocking aldosterone receptors",
+            "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle",
+            "Reduce sympathetic outflow from the central nervous system"
+          ],
+          "answer": "Decrease cardiac output by reducing heart rate and contractility"
+        },
+        {
+          "question": "In a patient with pheochromocytoma, which of the following clinical findings is most characteristic?",
+          "options": [
+            "Episodic hypertension and tachycardia",
+            "Persistent hypotension and bradycardia",
+            "Hyperglycemia and weight gain",
+            "Hypokalemia and metabolic alkalosis"
+          ],
+          "answer": "Episodic hypertension and tachycardia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of respiratory acidosis in a patient with severe asthma?",
+          "options": [
+            "Hypoventilation leading to CO2 retention",
+            "Hyperventilation leading to CO2 elimination",
+            "Increased production of lactic acid",
+            "Decreased bicarbonate reabsorption in the kidneys"
+          ],
+          "answer": "Hypoventilation leading to CO2 retention"
+        },
+        {
+          "question": "A patient with hyperthyroidism is most likely to exhibit which of the following clinical findings?",
+          "options": [
+            "Tachycardia and heat intolerance",
+            "Bradycardia and cold intolerance",
+            "Hypertension and weight gain",
+            "Hypotension and weight loss"
+          ],
+          "answer": "Tachycardia and heat intolerance"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of angiotensin-converting enzyme (ACE) inhibitors in the treatment of hypertension?",
+          "options": [
+            "Inhibit the conversion of angiotensin I to angiotensin II",
+            "Block aldosterone receptors in the distal tubule",
+            "Increase sodium excretion by inhibiting the Na-K-2Cl cotransporter",
+            "Cause vasodilation by activating nitric oxide synthase"
+          ],
+          "answer": "Inhibit the conversion of angiotensin I to angiotensin II"
+        },
+        {
+          "question": "In a patient with chronic obstructive pulmonary disease (COPD), which of the following changes in arterial blood gases is most characteristic?",
+          "options": [
+            "Hypoxemia and hypercapnia",
+            "Hyperoxemia and hypocapnia",
+            "Hypoxemia and hypocapnia",
+            "Hyperoxemia and hypercapnia"
+          ],
+          "answer": "Hypoxemia and hypercapnia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of metabolic acidosis in a patient with diabetic ketoacidosis (DKA)?",
+          "options": [
+            "Increased production of ketone bodies",
+            "Decreased renal excretion of bicarbonate",
+            "Excessive loss of gastric acid",
+            "Increased production of lactic acid"
+          ],
+          "answer": "Increased production of ketone bodies"
+        },
+        {
+          "question": "A patient with hypoparathyroidism is most likely to exhibit which of the following laboratory findings?",
+          "options": [
+            "Hypocalcemia and hyperphosphatemia",
+            "Hypercalcemia and hypophosphatemia",
+            "Hypokalemia and metabolic alkalosis",
+            "Hyperkalemia and metabolic acidosis"
+          ],
+          "answer": "Hypocalcemia and hyperphosphatemia"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of calcium channel blockers in the treatment of hypertension?",
+          "options": [
+            "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle",
+            "Decrease cardiac output by reducing heart rate and contractility",
+            "Increase renal sodium excretion by blocking aldosterone receptors",
+            "Reduce sympathetic outflow from the central nervous system"
+          ],
+          "answer": "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle"
+        },
+        {
+          "question": "In a patient with acute myocardial infarction, which of the following cardiac biomarkers is most specific for myocardial injury?",
+          "options": [
+            "Troponin I",
+            "Creatine kinase-MB (CK-MB)",
+            "Lactate dehydrogenase (LDH)",
+            "Myoglobin"
+          ],
+          "answer": "Troponin I"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of hypercalcemia in a patient with multiple myeloma?",
+          "options": [
+            "Increased bone resorption due to osteoclast activation",
+            "Decreased renal excretion of calcium",
+            "Increased intestinal absorption of calcium",
+            "Excessive production of parathyroid hormone (PTH)"
+          ],
+          "answer": "Increased bone resorption due to osteoclast activation"
+        },
+        {
+          "question": "A patient with chronic liver disease develops hepatorenal syndrome. Which of the following pathophysiological mechanisms is most likely involved?",
+          "options": [
+            "Severe renal vasoconstriction due to portal hypertension",
+            "Direct toxicity of bilirubin on renal tubules",
+            "Excessive sodium retention due to aldosterone hypersecretion",
+            "Decreased renal perfusion due to hypovolemia"
+          ],
+          "answer": "Severe renal vasoconstriction due to portal hypertension"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of spironolactone in the treatment of hypertension?",
+          "options": [
+            "Block aldosterone receptors in the distal tubule",
+            "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb",
+            "Cause vasodilation by activating nitric oxide synthase",
+            "Decrease cardiac output by reducing heart rate and contractility"
+          ],
+          "answer": "Block aldosterone receptors in the distal tubule"
+        },
+        {
+          "question": "In a patient with acute pulmonary embolism, which of the following changes in arterial blood gases is most characteristic?",
+          "options": [
+            "Hypoxemia and hypocapnia",
+            "Hyperoxemia and hypercapnia",
+            "Hypoxemia and hypercapnia",
+            "Hyperoxemia and hypocapnia"
+          ],
+          "answer": "Hypoxemia and hypocapnia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of metabolic alkalosis in a patient with primary hyperaldosteronism?",
+          "options": [
+            "Increased renal excretion of hydrogen ions",
+            "Decreased renal excretion of bicarbonate",
+            "Excessive loss of gastric acid",
+            "Increased production of lactic acid"
+          ],
+          "answer": "Increased renal excretion of hydrogen ions"
+        },
+        {
+          "question": "A patient with chronic kidney disease (CKD) develops anemia. Which of the following mechanisms is most likely responsible?",
+          "options": [
+            "Decreased production of erythropoietin by the kidneys",
+            "Increased destruction of red blood cells",
+            "Iron deficiency due to poor dietary intake",
+            "Vitamin B12 deficiency due to malabsorption"
+          ],
+          "answer": "Decreased production of erythropoietin by the kidneys"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of thiazide diuretics in the treatment of hypertension?",
+          "options": [
+            "Inhibit the Na-Cl cotransporter in the distal convoluted tubule",
+            "Block aldosterone receptors in the distal tubule",
+            "Cause vasodilation by activating nitric oxide synthase",
+            "Decrease cardiac output by reducing heart rate and contractility"
+          ],
+          "answer": "Inhibit the Na-Cl cotransporter in the distal convoluted tubule"
+        },
+        {
+          "question": "In a patient with acute respiratory failure, which of the following changes in arterial blood gases is most characteristic?",
+          "options": [
+            "Hypoxemia and hypercapnia",
+            "Hyperoxemia and hypocapnia",
+            "Hypoxemia and hypocapnia",
+            "Hyperoxemia and hypercapnia"
+          ],
+          "answer": "Hypoxemia and hypercapnia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of hypokalemia in a patient with primary hyperaldosteronism?",
+          "options": [
+            "Increased renal excretion of potassium",
+            "Decreased dietary intake of potassium",
+            "Shift of potassium from extracellular to intracellular space",
+            "Excessive loss of potassium through the gastrointestinal tract"
+          ],
+          "answer": "Increased renal excretion of potassium"
+        },
+        {
+          "question": "A patient with chronic obstructive pulmonary disease (COPD) develops cor pulmonale. Which of the following pathophysiological mechanisms is most likely involved?",
+          "options": [
+            "Pulmonary hypertension leading to right ventricular hypertrophy",
+            "Left ventricular failure leading to pulmonary congestion",
+            "Increased pulmonary compliance causing right ventricular dilation",
+            "Decreased systemic vascular resistance leading to right ventricular failure"
+          ],
+          "answer": "Pulmonary hypertension leading to right ventricular hypertrophy"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of loop diuretics in the treatment of heart failure?",
+          "options": [
+            "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb of the loop of Henle",
+            "Block aldosterone receptors in the distal tubule",
+            "Cause vasodilation by activating nitric oxide synthase",
+            "Decrease cardiac output by reducing heart rate and contractility"
+          ],
+          "answer": "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb of the loop of Henle"
+        },
+        {
+          "question": "In a patient with acute kidney injury (AKI), which of the following electrolyte abnormalities is most likely to occur?",
+          "options": [
+            "Hyperkalemia",
+            "Hypocalcemia",
+            "Hypermagnesemia",
+            "Hypophosphatemia"
+          ],
+          "answer": "Hyperkalemia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of metabolic acidosis in a patient with chronic kidney disease (CKD)?",
+          "options": [
+            "Decreased renal excretion of hydrogen ions",
+            "Increased production of lactic acid",
+            "Excessive loss of bicarbonate through the gastrointestinal tract",
+            "Increased renal excretion of bicarbonate"
+          ],
+          "answer": "Decreased renal excretion of hydrogen ions"
+        },
+        {
+          "question": "A patient with chronic liver disease develops hepatic encephalopathy. Which of the following mechanisms is most likely responsible?",
+          "options": [
+            "Increased ammonia levels due to impaired urea cycle",
+            "Decreased gamma-aminobutyric acid (GABA) activity",
+            "Increased dopamine production in the brain",
+            "Decreased glutamine synthesis in astrocytes"
+          ],
+          "answer": "Increased ammonia levels due to impaired urea cycle"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of beta-blockers in the treatment of heart failure?",
+          "options": [
+            "Decrease cardiac output by reducing heart rate and contractility",
+            "Increase renal sodium excretion by blocking aldosterone receptors",
+            "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle",
+            "Reduce sympathetic outflow from the central nervous system"
+          ],
+          "answer": "Decrease cardiac output by reducing heart rate and contractility"
+        },
+        {
+          "question": "In a patient with acute pancreatitis, which of the following electrolyte abnormalities is most likely to occur?",
+          "options": [
+            "Hypocalcemia",
+            "Hyperkalemia",
+            "Hypermagnesemia",
+            "Hypophosphatemia"
+          ],
+          "answer": "Hypocalcemia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of hyperkalemia in a patient with acute kidney injury (AKI)?",
+          "options": [
+            "Impaired renal excretion of potassium",
+            "Increased aldosterone secretion",
+            "Excessive potassium intake",
+            "Shift of potassium from intracellular to extracellular space"
+          ],
+          "answer": "Impaired renal excretion of potassium"
+        },
+        {
+          "question": "A patient with hypothyroidism is most likely to exhibit which of the following clinical findings?",
+          "options": [
+            "Bradycardia and cold intolerance",
+            "Tachycardia and heat intolerance",
+            "Hypertension and weight loss",
+            "Hyperreflexia and tremors"
+          ],
+          "answer": "Bradycardia and cold intolerance"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of beta-blockers in the treatment of hypertension?",
+          "options": [
+            "Decrease cardiac output by reducing heart rate and contractility",
+            "Increase renal sodium excretion by blocking aldosterone receptors",
+            "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle",
+            "Reduce sympathetic outflow from the central nervous system"
+          ],
+          "answer": "Decrease cardiac output by reducing heart rate and contractility"
+        },
+        {
+          "question": "In a patient with pheochromocytoma, which of the following clinical findings is most characteristic?",
+          "options": [
+            "Episodic hypertension and tachycardia",
+            "Persistent hypotension and bradycardia",
+            "Hyperglycemia and weight gain",
+            "Hypokalemia and metabolic alkalosis"
+          ],
+          "answer": "Episodic hypertension and tachycardia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of respiratory acidosis in a patient with severe asthma?",
+          "options": [
+            "Hypoventilation leading to CO2 retention",
+            "Hyperventilation leading to CO2 elimination",
+            "Increased production of lactic acid",
+            "Decreased bicarbonate reabsorption in the kidneys"
+          ],
+          "answer": "Hypoventilation leading to CO2 retention"
+        },
+        {
+          "question": "A patient with hyperthyroidism is most likely to exhibit which of the following clinical findings?",
+          "options": [
+            "Tachycardia and heat intolerance",
+            "Bradycardia and cold intolerance",
+            "Hypertension and weight gain",
+            "Hypotension and weight loss"
+          ],
+          "answer": "Tachycardia and heat intolerance"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of angiotensin-converting enzyme (ACE) inhibitors in the treatment of hypertension?",
+          "options": [
+            "Inhibit the conversion of angiotensin I to angiotensin II",
+            "Block aldosterone receptors in the distal tubule",
+            "Increase sodium excretion by inhibiting the Na-K-2Cl cotransporter",
+            "Cause vasodilation by activating nitric oxide synthase"
+          ],
+          "answer": "Inhibit the conversion of angiotensin I to angiotensin II"
+        },
+        {
+          "question": "In a patient with chronic obstructive pulmonary disease (COPD), which of the following changes in arterial blood gases is most characteristic?",
+          "options": [
+            "Hypoxemia and hypercapnia",
+            "Hyperoxemia and hypocapnia",
+            "Hypoxemia and hypocapnia",
+            "Hyperoxemia and hypercapnia"
+          ],
+          "answer": "Hypoxemia and hypercapnia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of metabolic acidosis in a patient with diabetic ketoacidosis (DKA)?",
+          "options": [
+            "Increased production of ketone bodies",
+            "Decreased renal excretion of bicarbonate",
+            "Excessive loss of gastric acid",
+            "Increased production of lactic acid"
+          ],
+          "answer": "Increased production of ketone bodies"
+        },
+        {
+          "question": "A patient with hypoparathyroidism is most likely to exhibit which of the following laboratory findings?",
+          "options": [
+            "Hypocalcemia and hyperphosphatemia",
+            "Hypercalcemia and hypophosphatemia",
+            "Hypokalemia and metabolic alkalosis",
+            "Hyperkalemia and metabolic acidosis"
+          ],
+          "answer": "Hypocalcemia and hyperphosphatemia"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of calcium channel blockers in the treatment of hypertension?",
+          "options": [
+            "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle",
+            "Decrease cardiac output by reducing heart rate and contractility",
+            "Increase renal sodium excretion by blocking aldosterone receptors",
+            "Reduce sympathetic outflow from the central nervous system"
+          ],
+          "answer": "Cause vasodilation by inhibiting calcium influx in vascular smooth muscle"
+        },
+        {
+          "question": "In a patient with acute myocardial infarction, which of the following cardiac biomarkers is most specific for myocardial injury?",
+          "options": [
+            "Troponin I",
+            "Creatine kinase-MB (CK-MB)",
+            "Lactate dehydrogenase (LDH)",
+            "Myoglobin"
+          ],
+          "answer": "Troponin I"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of hypercalcemia in a patient with multiple myeloma?",
+          "options": [
+            "Increased bone resorption due to osteoclast activation",
+            "Decreased renal excretion of calcium",
+            "Increased intestinal absorption of calcium",
+            "Excessive production of parathyroid hormone (PTH)"
+          ],
+          "answer": "Increased bone resorption due to osteoclast activation"
+        },
+        {
+          "question": "A patient with chronic liver disease develops hepatorenal syndrome. Which of the following pathophysiological mechanisms is most likely involved?",
+          "options": [
+            "Severe renal vasoconstriction due to portal hypertension",
+            "Direct toxicity of bilirubin on renal tubules",
+            "Excessive sodium retention due to aldosterone hypersecretion",
+            "Decreased renal perfusion due to hypovolemia"
+          ],
+          "answer": "Severe renal vasoconstriction due to portal hypertension"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of spironolactone in the treatment of hypertension?",
+          "options": [
+            "Block aldosterone receptors in the distal tubule",
+            "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb",
+            "Cause vasodilation by activating nitric oxide synthase",
+            "Decrease cardiac output by reducing heart rate and contractility"
+          ],
+          "answer": "Block aldosterone receptors in the distal tubule"
+        },
+        {
+          "question": "In a patient with acute pulmonary embolism, which of the following changes in arterial blood gases is most characteristic?",
+          "options": [
+            "Hypoxemia and hypocapnia",
+            "Hyperoxemia and hypercapnia",
+            "Hypoxemia and hypercapnia",
+            "Hyperoxemia and hypocapnia"
+          ],
+          "answer": "Hypoxemia and hypocapnia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of metabolic alkalosis in a patient with primary hyperaldosteronism?",
+          "options": [
+            "Increased renal excretion of hydrogen ions",
+            "Decreased renal excretion of bicarbonate",
+            "Excessive loss of gastric acid",
+            "Increased production of lactic acid"
+          ],
+          "answer": "Increased renal excretion of hydrogen ions"
+        },
+        {
+          "question": "A patient with chronic kidney disease (CKD) develops anemia. Which of the following mechanisms is most likely responsible?",
+          "options": [
+            "Decreased production of erythropoietin by the kidneys",
+            "Increased destruction of red blood cells",
+            "Iron deficiency due to poor dietary intake",
+            "Vitamin B12 deficiency due to malabsorption"
+          ],
+          "answer": "Decreased production of erythropoietin by the kidneys"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of thiazide diuretics in the treatment of hypertension?",
+          "options": [
+            "Inhibit the Na-Cl cotransporter in the distal convoluted tubule",
+            "Block aldosterone receptors in the distal tubule",
+            "Cause vasodilation by activating nitric oxide synthase",
+            "Decrease cardiac output by reducing heart rate and contractility"
+          ],
+          "answer": "Inhibit the Na-Cl cotransporter in the distal convoluted tubule"
+        },
+        {
+          "question": "In a patient with acute respiratory failure, which of the following changes in arterial blood gases is most characteristic?",
+          "options": [
+            "Hypoxemia and hypercapnia",
+            "Hyperoxemia and hypocapnia",
+            "Hypoxemia and hypocapnia",
+            "Hyperoxemia and hypercapnia"
+          ],
+          "answer": "Hypoxemia and hypercapnia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of hypokalemia in a patient with primary hyperaldosteronism?",
+          "options": [
+            "Increased renal excretion of potassium",
+            "Decreased dietary intake of potassium",
+            "Shift of potassium from extracellular to intracellular space",
+            "Excessive loss of potassium through the gastrointestinal tract"
+          ],
+          "answer": "Increased renal excretion of potassium"
+        },
+        {
+          "question": "A patient with chronic obstructive pulmonary disease (COPD) develops cor pulmonale. Which of the following pathophysiological mechanisms is most likely involved?",
+          "options": [
+            "Pulmonary hypertension leading to right ventricular hypertrophy",
+            "Left ventricular failure leading to pulmonary congestion",
+            "Increased pulmonary compliance causing right ventricular dilation",
+            "Decreased systemic vascular resistance leading to right ventricular failure"
+          ],
+          "answer": "Pulmonary hypertension leading to right ventricular hypertrophy"
+        },
+        {
+          "question": "Which of the following best describes the mechanism of action of loop diuretics in the treatment of heart failure?",
+          "options": [
+            "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb of the loop of Henle",
+            "Block aldosterone receptors in the distal tubule",
+            "Cause vasodilation by activating nitric oxide synthase",
+            "Decrease cardiac output by reducing heart rate and contractility"
+          ],
+          "answer": "Inhibit the Na-K-2Cl cotransporter in the thick ascending limb of the loop of Henle"
+        },
+        {
+          "question": "In a patient with acute kidney injury (AKI), which of the following electrolyte abnormalities is most likely to occur?",
+          "options": [
+            "Hyperkalemia",
+            "Hypocalcemia",
+            "Hypermagnesemia",
+            "Hypophosphatemia"
+          ],
+          "answer": "Hyperkalemia"
+        },
+        {
+          "question": "Which of the following is the most likely explanation for the development of metabolic acidosis in a patient with chronic kidney disease (CKD)?",
+          "options": [
+            "Decreased renal excretion of hydrogen ions",
+            "Increased production of lactic acid",
+            "Excessive loss of bicarbonate through the gastrointestinal tract",
+            "Increased renal excretion of bicarbonate"
+          ],
+          "answer": "Decreased renal excretion of hydrogen ions"
+        },
+        {
+          "question": "A patient with chronic liver disease develops hepatic encephalopathy. Which of the following mechanisms is most likely responsible?",
+          "options": [
+            "Increased ammonia levels due to impaired urea cycle",
+            "Decreased gamma-aminobutyric acid (GABA) activity",
+            "Increased dopamine production in the brain",
+            "Decreased glutamine synthesis in astrocytes"
+          ],
+          "answer": "Increased ammonia levels due to impaired urea cycle"
+          }
+          ]
+          },
     {
       "name": "Biochemistry",
       "questions": [
