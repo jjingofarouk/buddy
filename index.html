@@ -1,35 +1,85 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Medical MCQs</title>
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/themes.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedBoard Pro | Advanced Medical Learning</title>
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="manifest" href="/manifest.json">
 </head>
 <body>
-  <header>
-    <h1>Medical MCQs Platform</h1>
-    <nav>
-      <select id="subject-select" aria-label="Select a subject">
-        <option value="" disabled selected>Select a Subject</option>
-      </select>
-      <button id="theme-toggle" aria-label="Toggle theme">Change Theme</button>
+    <!-- Accessibility Skip Links -->
+    <nav class="skip-links">
+        <a href="#main-content">Skip to content</a>
+        <a href="#navigation">Skip to navigation</a>
     </nav>
-  </header>
 
-  <main>
-    <section id="mcq-container" aria-labelledby="subject-title">
-      <h2 id="subject-title">Select a Subject</h2>
-      <div id="mcqs" role="list"></div>
-    </section>
-  </main>
+    <!-- App Header -->
+    <header class="app-header">
+        <div class="header-container">
+            <h1 class="branding">
+                <img src="/assets/images/logo.svg" alt="MedBoard Pro" class="logo">
+                <span class="sr-only">MedBoard Pro</span>
+            </h1>
+            
+            <div class="header-controls">
+                <button class="theme-toggle" aria-label="Toggle dark mode">
+                    <span class="sun-icon">☀️</span>
+                    <span class="moon-icon">🌙</span>
+                </button>
+                <nav id="navigation" class="main-nav">
+                    <ul>
+                        <li><a href="#quiz" data-nav="quiz">Quiz Mode</a></li>
+                        <li><a href="#analytics" data-nav="analytics">Analytics</a></li>
+                        <li><a href="#bookmarks" data-nav="bookmarks">Bookmarks</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
 
-  <footer>
-    <p>&copy; 2025 Medical MCQs. All rights reserved.</p>
-  </footer>
+    <!-- Main Content -->
+    <main id="main-content" class="content-wrapper">
+        <!-- Quiz Interface -->
+        <section class="quiz-interface" aria-labelledby="quiz-heading">
+            <div class="quiz-header">
+                <h2 id="quiz-heading">Cardiology Quiz</h2>
+                <div class="quiz-meta">
+                    <span class="timer">00:00</span>
+                    <div class="progress-bar">
+                        <div class="progress-fill" style="width: 30%"></div>
+                    </div>
+                </div>
+            </div>
 
-  <script src="js/dataLoader.js"></script>
-  <script src="js/main.js"></script>
+            <article class="question-card">
+                <div class="question-content">
+                    <!-- Dynamically populated by JavaScript -->
+                </div>
+                
+                <div class="question-controls">
+                    <button class="btn prev-question" aria-label="Previous question">←</button>
+                    <div class="indicator">Question <span id="current">1</span>/50</div>
+                    <button class="btn next-question" aria-label="Next question">→</button>
+                </div>
+            </article>
+        </section>
+
+        <!-- Analytics Dashboard -->
+        <section class="analytics-dashboard hidden" aria-labelledby="analytics-heading">
+            <h2 id="analytics-heading">Performance Analytics</h2>
+            <div class="grid-container">
+                <div class="heatmap-container">
+                    <!-- SVG-based heatmap -->
+                </div>
+                <div class="weakness-analysis">
+                    <h3>Knowledge Gaps</h3>
+                    <!-- Dynamic content -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="/assets/js/main.js" type="module"></script>
 </body>
 </html>
