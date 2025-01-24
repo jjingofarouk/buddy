@@ -1,0 +1,12 @@
+// Print Styles
+@media print {
+  .app-header,
+  .quiz-controls,
+  .analytics-dashboard {
+    display: none;
+  }
+
+  .question-card {
+    page-break-inside: avoid;
+  }
+}
