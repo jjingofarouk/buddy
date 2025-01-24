@@ -11,17 +11,17 @@
   <header>
     <h1>Medical MCQs Platform</h1>
     <nav>
-      <select id="subject-select">
+      <select id="subject-select" aria-label="Select a subject">
         <option value="" disabled selected>Select a Subject</option>
       </select>
-      <button id="theme-toggle">Change Theme</button>
+      <button id="theme-toggle" aria-label="Toggle theme">Change Theme</button>
     </nav>
   </header>
 
   <main>
-    <section id="mcq-container">
+    <section id="mcq-container" aria-labelledby="subject-title">
       <h2 id="subject-title">Select a Subject</h2>
-      <div id="mcqs"></div>
+      <div id="mcqs" role="list"></div>
     </section>
   </main>
 
