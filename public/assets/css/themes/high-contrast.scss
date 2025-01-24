@@ -1,0 +1,29 @@
+// High Contrast Theme
+[data-theme="high-contrast"] {
+  --background-color: #000;
+  --text-color: #fff;
+  --primary-color: #ff0;
+  --secondary-color: #333;
+  --accent-color: #f00;
+
+  .app-header {
+    background-color: var(--secondary-color);
+    color: var(--text-color);
+  }
+
+  .question-card {
+    background-color: var(--secondary-color);
+    border-color: var(--accent-color);
+  }
+
+  .option-btn {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    border-color: var(--primary-color);
+
+    &:hover {
+      background-color: var(--primary-color);
+      color: var(--background-color);
+    }
+  }
+}
