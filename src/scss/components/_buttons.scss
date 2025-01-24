@@ -1,0 +1,32 @@
+// Buttons
+.btn {
+  display: inline-block;
+  padding: 1rem 2rem;
+  font-size: 1.6rem;
+  color: var(--secondary-color);
+  background-color: var(--primary-color);
+  border-radius: var(--border-radius);
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: darken(var(--primary-color), 10%);
+  }
+
+  &:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+}
+
+.option-btn {
+  padding: 1rem;
+  border: 2px solid var(--primary-color);
+  border-radius: var(--border-radius);
+  text-align: left;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+  }
+}
