@@ -1,0 +1,365 @@
+/* ==================== */
+/* Base Styles */
+/* ==================== */
+
+/* Reset */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%; /* 1rem = 10px */
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Variables */
+:root {
+  --background-color: #f9f9f9;
+  --text-color: #333;
+  --primary-color: #4a90e2;
+  --secondary-color: #fff;
+  --accent-color: #ff6b6b;
+  --border-radius: 8px;
+  --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Georgia', serif;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 3.2rem;
+}
+
+h2 {
+  font-size: 2.8rem;
+}
+
+h3 {
+  font-size: 2.4rem;
+}
+
+p {
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Accessibility */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.skip-links a {
+  position: absolute;
+  top: -1000px;
+  left: -1000px;
+  background: var(--primary-color);
+  color: var(--secondary-color);
+  padding: 1rem;
+  z-index: 1000;
+}
+
+.skip-links a:focus {
+  top: 0;
+  left: 0;
+}
+
+/* ==================== */
+/* Components */
+/* ==================== */
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  padding: 1rem 2rem;
+  font-size: 1.6rem;
+  color: var(--secondary-color);
+  background-color: var(--primary-color);
+  border-radius: var(--border-radius);
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: darken(var(--primary-color), 10%);
+}
+
+.btn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.option-btn {
+  padding: 1rem;
+  border: 2px solid var(--primary-color);
+  border-radius: var(--border-radius);
+  text-align: left;
+  transition: background-color 0.3s ease;
+}
+
+.option-btn:hover {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+}
+
+/* Cards */
+.question-card {
+  background-color: var(--secondary-color);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+.question-text {
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+}
+
+.options-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+/* Navigation */
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.main-nav li a {
+  font-size: 1.6rem;
+  color: var(--text-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.main-nav li a:hover {
+  color: var(--primary-color);
+}
+
+/* Progress Bar */
+.progress-bar {
+  width: 100%;
+  height: 1rem;
+  background-color: var(--secondary-color);
+  border-radius: var(--border-radius);
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: var(--primary-color);
+  transition: width 0.3s ease;
+}
+
+/* Forms */
+.form-group {
+  margin-bottom: 2rem;
+}
+
+.form-group label {
+  display: block;
+  font-size: 1.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.6rem;
+  border: 1px solid var(--primary-color);
+  border-radius: var(--border-radius);
+  background-color: var(--secondary-color);
+  color: var(--text-color);
+}
+
+/* ==================== */
+/* Layout */
+/* ==================== */
+
+/* Grid */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 2rem;
+}
+
+/* Header */
+.app-header {
+  background-color: var(--secondary-color);
+  padding: 1rem 2rem;
+  box-shadow: var(--box-shadow);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.branding {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.logo {
+  height: 4rem;
+}
+
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+/* Quiz Interface */
+.quiz-interface {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: var(--secondary-color);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+}
+
+.quiz-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.timer {
+  font-size: 1.6rem;
+}
+
+/* Analytics Dashboard */
+.analytics-dashboard {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: var(--secondary-color);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+}
+
+.heatmap-container {
+  width: 100%;
+  height: 300px;
+  background-color: var(--background-color);
+  margin-bottom: 2rem;
+}
+
+.weakness-analysis h3 {
+  margin-bottom: 1rem;
+}
+
+.weakness-analysis ul {
+  list-style: none;
+  padding-left: 1rem;
+}
+
+.weakness-analysis li {
+  margin-bottom: 0.5rem;
+  font-size: 1.6rem;
+}
+
+/* ==================== */
+/* Themes */
+/* ==================== */
+
+/* Dark Theme */
+[data-theme="dark"] {
+  --background-color: #1a1a1a;
+  --text-color: #f5f5f5;
+  --primary-color: #4a90e2;
+  --secondary-color: #333;
+  --accent-color: #ff6b6b;
+}
+
+/* High Contrast Theme */
+[data-theme="high-contrast"] {
+  --background-color: #000;
+  --text-color: #fff;
+  --primary-color: #ff0;
+  --secondary-color: #333;
+  --accent-color: #f00;
+}
+
+/* ==================== */
+/* Utilities */
+/* ==================== */
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+/* Print Styles */
+@media print {
+  .app-header,
+  .quiz-controls,
+  .analytics-dashboard {
+    display: none;
+  }
+
+  .question-card {
+    page-break-inside: avoid;
+  }
+}
