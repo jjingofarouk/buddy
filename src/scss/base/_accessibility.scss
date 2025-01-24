@@ -1,0 +1,32 @@
+// Accessibility Enhancements
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.skip-links {
+  a {
+    position: absolute;
+    top: -1000px;
+    left: -1000px;
+    background: var(--primary-color);
+    color: var(--secondary-color);
+    padding: 1rem;
+    z-index: 1000;
+
+    &:focus {
+      top: 0;
+      left: 0;
+    }
+  }
+}
+
+[aria-hidden="true"] {
+  display: none;
+}
